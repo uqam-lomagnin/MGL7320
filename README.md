@@ -99,7 +99,7 @@ Le calendrier ci-dessous **est destiné à évoluer**.
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation_slides.pdf) | 5 octobre |
 | 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection_slides.pdf)         | 12 octobre |
 | 7     	| Mises à jour des projets (présentations faites par les étudiants) | 19 octobre |
-| 8       | (?) | 26 octobre |
+| 8       | Infrastructure et Architecture | 26 octobre |
 | 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing_slides.pdf)  | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying_slides.pdf) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](./lectures/11_explanation_trust/11_explanation_slides.pdf) | 16 novembre |
@@ -123,11 +123,12 @@ Autres références :
 ## Questions et communication
 
 - Par courriel : magnin [dot] laurent_yves [at] uqam [dot] ca (Inclure [MLG7320] dans le titre du message)
+
 - Par clavardage (à déterminer)
 
-- Planifiez une réunion en personne/Zoom si nécessaire. Je resterai 15 minutes après le cours (la plupart des cours).
+- Planifiez une réunion en personne / Zoom si nécessaire.
 
-- Poser la question dans la séance
+- Poser des questions durant ou après la séance
 
 - Discutez avec vos camarades de classe
 

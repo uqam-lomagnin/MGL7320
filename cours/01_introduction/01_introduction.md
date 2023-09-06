@@ -4,14 +4,14 @@
 # 01 - Introduction
 
 ## Lectures du jour
-- [Introduction et aperçu de l’intelligence artificielle (IA)](../../lectures/01_introduction/01_introduction_slides.pdf)
-- [Echec des projets d'intelligence artificielle](../../lectures/01_echecs_slides.pdf)
+- :bulb: [Introduction et aperçu de l’intelligence artificielle (IA)](../../lectures/01_introduction/01_introduction_slides.pdf)
+- :nut_and_bolt: [Echec des projets d'intelligence artificielle](../../lectures/01_introduction/01_echecs_slides.pdf)
 
 ## Discussion
 
-> Prod vs Non Prod
+> :nut_and_bolt: Prod vs Non Prod
 
 ## Travail personnel pour la semaine prochaine
 - [ ] Récupérer le livre [The Big Book of MLOps](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) (copie gratuite)
-- [ ] Prévoir 3 questions (pertinentes) à poser concernant le cours d'aujourd'hui
+- [ ] Prévoir 3 questions / réponses (pertinentes) concernant le cours d'aujourd'hui
   - Certains d'entre-vous devront les poser lors de la prochaine séance
