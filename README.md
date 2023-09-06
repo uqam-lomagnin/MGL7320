@@ -112,6 +112,10 @@ Le calendrier ci-dessous **est destiné à évoluer**.
 
 **À déterminer**
 
+- Usage de [GitHub Classroom](https://classroom.github.com/) :question:
+
+![github_classroom](./images/github_classroom.png)
+
 # Médiagraphie
 
 Le cours [originel] fera occasionnellement référence au manuel suivant :
