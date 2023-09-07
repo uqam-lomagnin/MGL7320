@@ -36,6 +36,9 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
 </p></h2>
 
 # Présentation du chargé de cours (Dr. Laurent Magnin)
+
+![robocup](images/robocup.jpeg)
+
 - Doctorat en Intelligence Artificielle (1996)
   - Anciennement chercheur en IA
   - Chargé de cours / professeur associé
@@ -52,11 +55,10 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
 ## Format des séances
 - Les jeudis 18h00 à 21h00 (présentiel)  
 - Salle [SH-3540 | Campus de Montréal](http://carte.uqam.ca/#pavillon/sh)  
-- 10 minutes de pause (Disponible pour répondre aux questions)
+- 2 * 5 minutes de pause (Disponible pour répondre aux questions)
 
 Les séances:
 - Inclurent des discussions actives
-- Exercices pratiques
 - Utilisation de [Kahoot](https://kahoot.it)
 
 ## Classe d’Ingénierie
@@ -72,7 +74,7 @@ Non axé sur:
 
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
-Tentative : travail sur des environnements <i>Cloud</i>.
+Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
 ## Ce qui est attendu de vous
 
@@ -88,7 +90,7 @@ Tentative : travail sur des environnements <i>Cloud</i>.
 
 ## Calendrier
 
-Le calendrier ci-dessous **est destiné à évoluer**.
+Le calendrier ci-dessous **n'est pas définitif**.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
