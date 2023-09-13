@@ -24,11 +24,13 @@ Alongside the language differences, there are other specific changes to the orig
 
 # Description du cours
 
-Ce cours vise à fournir les concepts clés liés à l'ingénierie des systèmes d’intelligence artificielle. Les sujets inclus sont la spécification et l’architecture des systèmes d’intelligence artificielle, la validation et la gestion des données, le processus de sélection des modèles, les tests ainsi que le déploiement des systèmes d'intelligence artificielle. Les sujets spéciaux sur l'interprétation, l’équité et les opérations des systèmes d’intelligence artificielle peuvent aussi être inclus.
+Ce cours vise à fournir les concepts et pratiques clés liés à l'ingénierie des systèmes d’intelligence artificielle (<i>MLOPs</i>). Les sujets inclus sont la spécification et l’architecture des systèmes d’intelligence artificielle, la validation et la gestion des données, le processus de sélection des modèles, les tests ainsi que le déploiement des systèmes d'intelligence artificielle. Les sujets spéciaux sur l'interprétation, l’équité et les opérations des systèmes d’intelligence artificielle peuvent aussi être inclus.
 
-## Objectifs d'Apprentissage du Cours
+Dans la mesure du possible seront proposés des travaux et exercices effectués au sein d'une plateforme <i>MLOPs</i> dédiée, hébergée gracieusement sur le <i>Cloud</i>.  
 
-L’objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant les concepts et processus de génie logiciel (GL) dans le contexte d’un système d’intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d’identifier les enjeux liés aux systèmes d’intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d’intelligence artificielle. Le cours se concentre sur l’interconnexion du GL et de l’IA, et sur la manière dont les sujets couverts s’appliquent aux systèmes basés sur l’IA.
+# Objectifs d'Apprentissage du Cours
+
+L’objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant de façon concrète les concepts et processus de génie logiciel (GL) dans le contexte d’un système d’intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d’identifier les enjeux liés aux systèmes d’intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d’intelligence artificielle. Le cours se concentre sur l’interconnexion du GL et de l’IA, et sur la manière dont les sujets couverts s’appliquent aux systèmes basés sur l’IA.
 
 <h2><p style="text-align: center;">
 <img style="float:center;" align="center" src="https://ml-ops.org/img/mlops-loop-en.jpg" width="450"/><br>
@@ -90,7 +92,7 @@ Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
 ## Calendrier
 
-Le calendrier **est susceptible d'être ajusté**.
+Le calendrier ci-dessous est susceptible d’évoluer.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
@@ -116,12 +118,11 @@ L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| %  | Date (de remise) |
 | ------------------------- | -- | ---- |
-| :couple: Présentation du plan du projet en équipe|	10 | 19 octobre |
-| :walking: Projet(s) personnel(s) | 30 | 16 novembre  |
-| :couple: Démonstration du projet en équipe |	15 | 30 novembre |
-| :couple: Rapport final du projet en équipe |	15 | 30 novembre |
-| :walking: Examen (Quiz)	| 20 | 7 décembre |
-| :walking: Questions / réponses (pertinentes, variées et originales)	|	10 | 14 décembre  |
+| :couple: Présentation du plan du projet en équipe |	10 | 19 octobre |
+| :walking: Projet(s) personnel(s) | 40 | 16 novembre  |
+| :couple: Démonstration du projet en équipe |	10 | 30 novembre |
+| :couple: Rapport final du projet en équipe |	20 | 30 novembre |
+| :walking: Examen	| 20 | 7 décembre |
 
 - Usage de [GitHub Classroom](https://classroom.github.com/)
 
