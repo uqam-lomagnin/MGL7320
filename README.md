@@ -90,18 +90,18 @@ Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
 ## Calendrier
 
-Le calendrier ci-dessous **n'est pas définitif**.
+Le calendrier **est susceptible d'être ajusté**.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
-| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./cours/01_introduction/01_introduction.md) | 7 septembre |
-| 2	      |	[IA pour les ingénieurs logiciels (Activité pratique)](./lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)      | 14 septembre |
+| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) | 7 septembre |
+| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md)      | 14 septembre |
 | 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements_slides.pdf)               | 21 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture_slides.pdf)       | 28 septembre |
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation_slides.pdf) | 5 octobre |
 | 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection_slides.pdf)         | 12 octobre |
 | 7     	| Mises à jour des projets (présentations faites par les étudiants) | 19 octobre |
-| 8       | Infrastructure et Architecture | 26 octobre |
+| 8       | Infrastructure(s) et Architecture | 26 octobre |
 | 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing_slides.pdf)  | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying_slides.pdf) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](./lectures/11_explanation_trust/11_explanation_slides.pdf) | 16 novembre |
@@ -112,9 +112,18 @@ Le calendrier ci-dessous **n'est pas définitif**.
 
 # Évaluation
 
-**À déterminer**
+L'évaluation du cours est composé ainsi :
 
-- Usage de [GitHub Classroom](https://classroom.github.com/) :question:
+| Éléments d’évaluation			| %  | Date (de remise) |
+| ------------------------- | -- | ---- |
+| :couple: Présentation du plan du projet en équipe|	10 | 19 octobre |
+| :walking: Projet(s) personnel(s) | 30 | 16 novembre  |
+| :couple: Démonstration du projet en équipe |	15 | 30 novembre |
+| :couple: Rapport final du projet en équipe |	15 | 30 novembre |
+| :walking: Examen (Quiz)	| 20 | 7 décembre |
+| :walking: Questions / réponses (pertinentes, variées et originales)	|	10 | 14 décembre  |
+
+- Usage de [GitHub Classroom](https://classroom.github.com/)
 
 ![github_classroom](./images/github_classroom.png)
 
@@ -130,7 +139,7 @@ Autres références :
 
 - Par courriel : magnin [dot] laurent_yves [at] uqam [dot] ca (Inclure [MLG7320] dans le titre du message)
 
-- Par clavardage (à déterminer)
+- Par clavardage (Teams)
 
 - Planifiez une réunion en personne / Zoom si nécessaire.
 
