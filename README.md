@@ -22,6 +22,8 @@ Alongside the language differences, there are other specific changes to the orig
 - ~~Contenu susceptible d'évoluer~~ Ce contenu devrait évoluer
 - Disponible (provisoirement) sur [https://github.com/lomagnin/MGL7320-automne-2023](https://github.com/lomagnin/MGL7320-automne-2023)
 
+:warning: Avez-vous accès à https://gitlab.info.uqam.ca/magnin.laurent_yves/mgl7320-automne-2023 ?
+
 # Description du cours
 
 Ce cours vise à fournir les concepts et pratiques clés liés à l'ingénierie des systèmes d’intelligence artificielle (<i>MLOPs</i>). Les sujets inclus sont la spécification et l’architecture des systèmes d’intelligence artificielle, la validation et la gestion des données, le processus de sélection des modèles, les tests ainsi que le déploiement des systèmes d'intelligence artificielle. Les sujets spéciaux sur l'interprétation, l’équité et les opérations des systèmes d’intelligence artificielle peuvent aussi être inclus.
@@ -76,7 +78,7 @@ Non axé sur:
 
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
-Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
+:new: Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
 ## Ce qui est attendu de vous
 
@@ -92,7 +94,7 @@ Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
 ## Calendrier
 
-Le calendrier ci-dessous est susceptible d’évoluer.
+:new: Le calendrier ci-dessous est susceptible d’évoluer.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
@@ -114,7 +116,7 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 
 # Évaluation
 
-L'évaluation du cours est composé ainsi :
+:new: L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| %  | Date (de remise) |
 | ------------------------- | -- | ---- |
@@ -124,7 +126,7 @@ L'évaluation du cours est composé ainsi :
 | :couple: Rapport final du projet en équipe |	20 | 30 novembre |
 | :walking: Examen	| 20 | 7 décembre |
 
-- Usage de [GitHub Classroom](https://classroom.github.com/)
+- :new: Usage de [GitHub Classroom](https://classroom.github.com/classrooms/144286703-uqam-lomagnin-mgl7320-automne2023)
 
 ![github_classroom](./images/github_classroom.png)
 
