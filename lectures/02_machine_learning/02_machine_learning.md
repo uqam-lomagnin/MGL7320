@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- [Quizz](https://ahaslides.com/CU2S7)
+- Quizz - [https://ahaslides.com/CU2S7](https://ahaslides.com/CU2S7)
 - Questions / réponses concernant le cours de la semaine dernière
 
 ## Lectures du jour
