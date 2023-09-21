@@ -60,7 +60,7 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
 
 Les séances:
 - Inclurent des discussions actives
-- Utilisation de [Kahoot](https://kahoot.it)
+- Utilisation de [AhaSlides](https://ahaslides.com/)
 
 ## Classe d’Ingénierie
 <img style="float:right;" align="right" src="images/keep_calm.png" alt="keep_calm"  width="150"/>
