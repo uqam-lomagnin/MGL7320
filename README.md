@@ -19,10 +19,7 @@ Alongside the language differences, there are other specific changes to the orig
 
 ## Travail en cours !!!
 
-- ~~Contenu susceptible d'évoluer~~ Ce contenu devrait évoluer
-- Disponible (provisoirement) sur [https://github.com/lomagnin/MGL7320-automne-2023](https://github.com/lomagnin/MGL7320-automne-2023)
-
-:warning: Avez-vous accès à https://gitlab.info.uqam.ca/magnin.laurent_yves/mgl7320-automne-2023 ?
+- :new: Disponible sur [https://github.com/lomagnin/MGL7320-automne-2023](https://github.com/lomagnin/MGL7320-automne-2023)
 
 # Description du cours
 
@@ -94,13 +91,13 @@ Non axé sur:
 
 ## Calendrier
 
-:new: Le calendrier ci-dessous est susceptible d’évoluer.
+Le calendrier ci-dessous est susceptible d’évoluer.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
 | 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) | 7 septembre |
 | 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md)      | 14 septembre |
-| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements_slides.pdf)               | 21 septembre |
+| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md)               | 21 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture_slides.pdf)       | 28 septembre |
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation_slides.pdf) | 5 octobre |
 | 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection_slides.pdf)         | 12 octobre |
@@ -116,7 +113,7 @@ Non axé sur:
 
 # Évaluation
 
-:new: L'évaluation du cours est composé ainsi :
+L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| %  | Date (de remise) |
 | ------------------------- | -- | ---- |
