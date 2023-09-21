@@ -17,8 +17,8 @@
 
 | Éléments d’évaluation			| %  | Contenu | Date (de remise) |
 | ------------------------- | -- |------------------------- | ---- |
-| :couple: Présentation du plan du projet en équipe |	10 | SmartMeter : Nouvelles fonctionnalités ? | 19 octobre |
 | :walking: Projet(s) personnel(s) - 1/2 | 20 | SmartMeter : Mise à niveau | 19 octobre  |
+| :couple: Présentation du plan du projet en équipe |	10 | SmartMeter : Nouvelles fonctionnalités (MLOps) requises, sous forme d'exigences et de spécifications. | 19 octobre |
 | :walking: Projet(s) personnel(s) - 2/2 | 20 | SmartMeter : blog | 16 novembre |
 | :couple: Démonstration du projet en équipe |	10 | Nouvelles fonctionnalités ajoutées à SmartMeter | 30 novembre |
 | :couple: Rapport final du projet en équipe |	20 | Nouvelles fonctionnalités ajoutées à SmartMeter | 30 novembre |
