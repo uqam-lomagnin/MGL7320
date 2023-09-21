@@ -56,7 +56,7 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
 ## Format des séances
 - Les jeudis 18h00 à 21h00 (présentiel)  
 - Salle [SH-3540 | Campus de Montréal](http://carte.uqam.ca/#pavillon/sh)  
-- 2 * 5 minutes de pause (Disponible pour répondre aux questions)
+- 10 minutes de pause (Disponible pour répondre aux questions)
 
 Les séances:
 - Inclurent des discussions actives

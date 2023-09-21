@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - [https://ahaslides.com/CU2S7](https://ahaslides.com/CU2S7)
+- Quizz - https://ahaslides.com/IZN44
 
 ## Lectures du jour
 - :bulb: [Exigences et spécifications des systèmes d'IA](./03_requirements_slides.pdf)
