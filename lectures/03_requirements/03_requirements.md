@@ -25,6 +25,7 @@
 
 ## Travail personnel pour la semaine prochaine
 - [ ] Étudier le projet [SmartMeter](https://github.com/Logimethods/smart-meter)
+- [ ] [Installer Docker](https://docs.docker.com/engine/install/) sur votre ordinateur portable (que vous apporterez au prochain cours)
 
 ## Prochaine séance
 - Architecture des systèmes d'intelligence artificielle (lecture)

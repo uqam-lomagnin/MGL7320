@@ -9,7 +9,7 @@
 - Questions / réponses concernant le cours de la semaine dernière
 
 ## Lectures du jour
-- :bulb: [Apprentissage Machine (ML)](./02_machine_learning.pdf)s
+- :bulb: [Apprentissage Machine (ML)](./02_machine_learning.pdf)
 
 ## (Various) Data Structures
 <details>
