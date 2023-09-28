@@ -8,7 +8,7 @@
 - Quizz - https://ahaslides.com/LKZCB
 
 ## Lectures du jour
-- :bulb: [Exigences et spécifications des systèmes d'IA](./04_architecture_slides.pdf)
+- :bulb: [Architecture des systèmes d'intelligence artificielle](./04_architecture_slides.pdf)
 - :nut_and_bolt: [Docker 101](./Docker101-UQAM.pdf)
 
 ## Travail personnel pour la semaine prochaine
