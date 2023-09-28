@@ -5,15 +5,14 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/IZN44
+- Quizz - https://ahaslides.com/LKZCB
 
 ## Lectures du jour
 - :bulb: [Exigences et spécifications des systèmes d'IA](./04_architecture_slides.pdf)
 - :nut_and_bolt: [Docker 101](./Docker101-UQAM.pdf)
 
 ## Travail personnel pour la semaine prochaine
-- [ ] Étudier le projet [SmartMeter](https://github.com/Logimethods/smart-meter)
-- [ ] [Installer Docker](https://docs.docker.com/engine/install/) sur votre ordinateur portable (que vous apporterez au prochain cours)
+- [ ] Explorer [Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
 
 ## Prochaine séance
 - Validation et gestion des données (lecture)
