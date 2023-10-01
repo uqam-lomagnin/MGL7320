@@ -9,11 +9,10 @@
 
 ## Lectures du jour
 - :bulb: [Architecture des systèmes d'intelligence artificielle](./04_architecture_slides.pdf)
-- :nut_and_bolt: [Docker 101](./Docker101-UQAM.pdf)
 
 ## Travail personnel pour la semaine prochaine
 - [ ] Explorer [Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
 
 ## Prochaine séance
 - Validation et gestion des données (lecture)
-- Mise à jour Docker de [SmartMeter](https://github.com/Logimethods/smart-meter)
+- ~~Mise à jour Docker de [SmartMeter](https://github.com/Logimethods/smart-meter)~~
