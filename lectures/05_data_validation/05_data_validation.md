@@ -17,7 +17,7 @@
 
 ## Travail personnel pour la semaine prochaine
 
-- [ ] Récupérer de Github Classroom votre [projet personnel](../../projets/projets.md)
+- [ ] Récupérer de Github Classroom votre [projet personnel](../../projets/projets.md) & y publier votre adresse de courriel
 - [ ] Vous regrouper en équipes de 4 étudiants en vue du projet commun
 
 Comment communiquer entre nous / vous ? Teams ? Google Classroom ? Autre ?
