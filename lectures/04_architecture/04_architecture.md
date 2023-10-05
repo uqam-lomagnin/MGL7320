@@ -12,6 +12,7 @@
 
 ## Travail personnel pour la semaine prochaine
 - [ ] Explorer [Docker 101 Tutorial](https://www.docker.com/101-tutorial/)
+- [ ] Compléter la [mission Github Classroom](https://classroom.github.com/a/CKYCMBjo)
 
 ## Prochaine séance
 - Validation et gestion des données (lecture)

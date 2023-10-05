@@ -100,13 +100,14 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md)               | 21 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md)       | 28 septembre |
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) | 5 octobre |
-| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection_slides.pdf)         | 12 octobre |
-| 7     	| Mises à jour des projets (présentations faites par les étudiants) | 19 octobre |
-| 8       | Infrastructure(s) et Architecture | 26 octobre |
-| 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing_slides.pdf)  | 2 novembre |
-| 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying_slides.pdf) | 9 novembre |
-| 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](./lectures/11_explanation_trust/11_explanation_slides.pdf) | 16 novembre |
-| 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic_slides.pdf) | 23 novembre |
+| 6	      | [Sélection des modèles] | 12 octobre |
+| 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
+| 7       | Infrastructure(s) et Architecture | 19 octobre |
+| 8     	| Présentation du plan du projet en équipe | 26 octobre |
+| 9       | [Test des systèmes d'intelligence artificielle] | 2 novembre |
+| 10      | [Déploiement des systèmes d'intelligence artificielle] | 9 novembre |
+| 11      |	[Confiance dans la prédiction et l'explicabilité du modèle]<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
+| 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages] | 23 novembre |
 | 13		  | Présentations des projets (présentations faites par les étudiants) | 30 novembre |
 | 14      |	Examen | 7 décembre |
 | 15		  | Conclusion du cours | 14 décembre |
@@ -117,7 +118,7 @@ L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| %  | Date (de remise) |
 | ------------------------- | -- | ---- |
-| :couple: Présentation du plan du projet en équipe |	10 | 19 octobre |
+| :couple: Présentation du plan du projet en équipe |	10 | ~~19 octobre~~ 26 octobre |
 | :walking: Projet(s) personnel(s) | 40 | 16 novembre  |
 | :couple: Démonstration du projet en équipe |	10 | 30 novembre |
 | :couple: Rapport final du projet en équipe |	20 | 30 novembre |
