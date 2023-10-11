@@ -5,7 +5,7 @@
 
 ## Projet individuel
 
-**Les instructions détaillées et le code de base sont partagées à travers Github Classroom.**
+**Voici le lien vers l'assignation [Github Classroom - hZT7Ifs6](https://classroom.github.com/a/hZT7Ifs6).**
 
 _Vérifier sur cette page si des instructions supplémentaires ne sont pas ajoutées au fur et à mesure._
 
@@ -19,7 +19,7 @@ Tâches principales requises:
   - [ ] Ne pas oublier de mettre à jour le fichier [README](README.md)
 - [ ] Réécrire le fichier [post.md] (blog), en fonction de vos précédentes experimentations.
 
-Date de remise : 16 novembre
+**Date de remise : 16 novembre, à 18h.**
 
 Liens utiles :
 - https://docs.pydantic.dev/latest/migration/
@@ -29,8 +29,9 @@ Liens utiles :
 
 - [ ] Proposer des évolutions (fonctionelles ou non) au "projet individuel"
   - [ ] Sous forme de [cahier des charges](https://www.manager-go.com/gestion-de-projet/dossiers-methodes/elaborer-un-cdc) (incluant les exigences)
+  - [ ] **Assignation [GitHub Classroom](https://classroom.github.com/a/3yOWEyQK)**
 
-Date de remise : 26 octobre
+**Date de remise : 26 octobre, 18 h**
 
 - [ ] Faire évoluer le code afin d'y incorporer les évolutions prévues (dans l'ordre du possible)
   - [ ] Déployer cette nouvelle application sur un serveur K8s mis à disposition par l'UQÀM (si disponible)

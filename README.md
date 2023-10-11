@@ -118,8 +118,8 @@ L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| %  | Date (de remise) |
 | ------------------------- | -- | ---- |
-| :couple: Présentation du plan du projet en équipe |	10 | ~~19 octobre~~ 26 octobre |
-| :walking: Projet(s) personnel(s) | 40 | 16 novembre  |
+| :couple: [Présentation du plan du projet en équipe](../projets/projets.md) |	10 | ~~19 octobre~~ 26 octobre |
+| :walking: [Projet(s) personnel(s)](../projets/projets.md) | 40 | 16 novembre  |
 | :couple: Démonstration du projet en équipe |	10 | 30 novembre |
 | :couple: Rapport final du projet en équipe |	20 | 30 novembre |
 | :walking: Examen	| 20 | 7 décembre |
