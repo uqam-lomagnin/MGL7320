@@ -100,9 +100,9 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md)               | 21 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md)       | 28 septembre |
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) | 5 octobre |
-| 6	      | [Sélection des modèles] | 12 octobre |
+| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) | 12 octobre |
 | 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
-| 7       | Infrastructure(s) et Architecture | 19 octobre |
+| 7       | Infrastructure(s) et Plateformes | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |
 | 9       | [Test des systèmes d'intelligence artificielle] | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle] | 9 novembre |
