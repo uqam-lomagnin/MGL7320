@@ -8,7 +8,7 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/
+- Quizz - https://ahaslides.com/CG4NH
 
 ## Travail personnel attendu
 - [ ] Vous regrouper en équipes de 4 étudiants en vue du projet commun
