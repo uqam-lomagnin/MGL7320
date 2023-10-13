@@ -12,7 +12,7 @@
 
 ## Travail personnel attendu
 - [ ] Vous regrouper en équipes de 4 étudiants en vue du projet commun
-- [ ] [Github Classroom - Projet individue](https://classroom.github.com/a/hZT7Ifs6)
+- [ ] [Github Classroom - Projet individuel](https://classroom.github.com/a/hZT7Ifs6)
 - [ ] [GitHub Classroom - Projet en équipe](https://classroom.github.com/a/3yOWEyQK)
 
 ## Lectures du jour
@@ -24,4 +24,4 @@
 
 ## Prochaine séance
 
-- "Infrastructure(s) et Architecture"
+- "Infrastructure(s) et Plateformes"
