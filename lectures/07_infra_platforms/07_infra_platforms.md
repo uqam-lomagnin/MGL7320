@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
 
 ## MGL7320 - Ingénierie logicielle des systèmes d'IA
-# 07 - Infrastructure(s) et Plateformes
+# 07 - Infrastructure(s), Outils et Plateformes
 
 ## Prelude
 
@@ -26,6 +26,14 @@
 
 </center>
 
+### Quelle(s) infrastructure(s) ?
+
+- _Personal Computer_
+- _Cloud_
+- _On-premise_ (serveurs sur site)
+
+> Avantages et inconvénients de ces environnements ?
+
 ### Préparation des données
 - [Snorkel](https://snorkel.ai)
   - [Revolutionizing Machine Learning with Weak Supervision & Snorkel](https://ai.plainenglish.io/revolutionizing-machine-learning-with-weak-supervision-snorkel-8c319865d6bf)
@@ -45,8 +53,10 @@
 
 ## Travail personnel pour la semaine prochaine
 
-- [ ]
+- [ ] Présentation du plan du projet en équipe
+  - [ ] Document sur GitHub (ne pas oublier d'y indiquer les membres de l'équipe !)
+  - [ ] Présentation (20 minutes + questions)
 
 ## Prochaine séance
 
--
+- Voir ci-dessus
