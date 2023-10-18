@@ -30,7 +30,9 @@
 
 - _Personal Computer_
 - _Cloud_
+  - _Serverless_ ?
 - _On-premise_ (serveurs sur site)
+  - Architecture hybride ?
 
 > Avantages et inconvénients de ces environnements ?
 
@@ -51,6 +53,10 @@
   - :tv: [What is MLflow?](https://www.youtube.com/watch?v=8SfZ1ElgpdU)
 - [Serveur d’inférence NVIDIA Triton](https://www.nvidia.com/fr-fr/ai-data-science/products/triton-inference-server/)
   - :tv: [Getting Started with NVIDIA Triton Inference Server](https://www.youtube.com/watch?v=NQDtfSi5QF4)
+
+### Sauvegarde et manipulation des données
+- :tv: [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)
+- :tv: [Intro to Data Lakehouse](https://www.youtube.com/watch?v=myLiFw9AUKY)
 
 ### Environnements intégrés
 - [Dataiku](https://www.dataiku.com)
