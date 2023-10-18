@@ -56,7 +56,7 @@
 - [Dataiku](https://www.dataiku.com)
   - :tv: [Dataiku - End to End Demo 2023](https://www.youtube.com/watch?v=-amc9iVauuE)
 - [Databricks](https://www.databricks.com)
-  - :tv: [Intro To Databricks - What Is Databricks](https://www.youtube.com/watch?v=QNdiGZFaUFs)
+  - :tv: [Lakehouse ML on Databricks Demo](https://www.youtube.com/watch?v=1TPu-uOLglI)
 
 ## Travail personnel pour la semaine prochaine
 
