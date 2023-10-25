@@ -30,6 +30,7 @@ Liens utiles :
 - [ ] Proposer des évolutions (fonctionelles ou non) au "projet individuel"
   - [ ] Sous forme de [cahier des charges](https://www.manager-go.com/gestion-de-projet/dossiers-methodes/elaborer-un-cdc) (incluant les exigences)
   - [ ] **Assignation [GitHub Classroom](https://classroom.github.com/a/3yOWEyQK)**
+  - [ ] **Indiquer le nom des membres de l'équipe** dans le fichier README.md.
 
 **Date de remise : 26 octobre, 18 h**
 
