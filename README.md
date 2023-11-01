@@ -102,9 +102,9 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) | 5 octobre |
 | 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) | 12 octobre |
 | 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
-| 7       | [Infrastructure(s) et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
+| 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |
-| 9       | [Test des systèmes d'intelligence artificielle] | 2 novembre |
+| 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle] | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle]<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
 | 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages] | 23 novembre |

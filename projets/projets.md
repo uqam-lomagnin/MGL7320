@@ -35,8 +35,10 @@ Liens utiles :
 **Date de remise : 26 octobre, 18 h**
 
 - [ ] Faire évoluer le code afin d'y incorporer les évolutions prévues (dans l'ordre du possible)
+  - [ ] **Assignation [GitHub Classroom](https://classroom.github.com/a/UoYzlEAi)**
   - [ ] Déployer cette nouvelle application sur un serveur K8s mis à disposition par l'UQÀM (si disponible)
 
+**Date de remise : 30 novembre, 18 h**
 
 - [ ] Rapport final
 - [ ] Démonstration  
