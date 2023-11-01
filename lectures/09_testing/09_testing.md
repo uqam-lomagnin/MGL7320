@@ -14,6 +14,8 @@
 
 ## Lectures du jour
 - :bulb: [Test des systèmes d'intelligence artificielle](./09_testing_slides.pdf)
+- :couple: Exercice commun - Quoi et comment tester note application ML ?
+  - :nut_and_bolt: Référence potentielle : [ML Model Testing: 4 Teams Share How They Test Their Models](https://neptune.ai/blog/ml-model-testing-teams-share-how-they-test-models)
 
 ## Prochaine séance
 
