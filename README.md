@@ -105,7 +105,7 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |
 | 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) | 2 novembre |
-| 10      | [Déploiement des systèmes d'intelligence artificielle] | 9 novembre |
+| 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle]<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
 | 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages] | 23 novembre |
 | 13		  | Présentations des projets (présentations faites par les étudiants) | 30 novembre |
@@ -140,7 +140,7 @@ Autres références :
 
 - Par courriel : magnin [dot] laurent_yves [at] uqam [dot] ca (Inclure [MLG7320] dans le titre du message)
 
-- Par clavardage (Teams)
+- ~~Par clavardage (Teams)~~
 
 - Planifiez une réunion en personne / Zoom si nécessaire.
 
