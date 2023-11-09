@@ -95,12 +95,12 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
-| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) | 7 septembre |
-| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md)      | 14 septembre |
-| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md)               | 21 septembre |
-| 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md)       | 28 septembre |
-| 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) | 5 octobre |
-| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) | 12 octobre |
+| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 7 septembre |
+| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-apprentissage-automatique-1695260512690-pib46rmqhk) | 14 septembre |
+| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-exigences-et-specifications-1695867471343-vyelza98n5) | 21 septembre |
+| 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-architecture-1696473432719-mhv4g5gjnt) | 28 septembre |
+| 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-validation-et-gestion-des-donnees-1697130824322-7g1ablx8rw) | 5 octobre |
+| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-selection-des-modeles-1697670906548-7jwxh94glm) | 12 octobre |
 | 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
 | 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |

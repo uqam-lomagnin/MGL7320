@@ -6,7 +6,7 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/
+- Quizz - https://ahaslides.com/J37BU
 
 ## Travail attendu (rappel)
 - [ ] [Github Classroom - Projet individuel - Logging of Regression Model](https://classroom.github.com/a/hZT7Ifs6) - Due Nov 16, 2023, 18:00
@@ -19,4 +19,4 @@
 
 ## Prochaine séance
 
-- _"Explaining Models and Predictions"_
+- _"Explaining Models and Predictions"_ (besoin de traduire ?)
