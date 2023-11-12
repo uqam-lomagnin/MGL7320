@@ -104,7 +104,7 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
 | 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |
-| 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) | 2 novembre |
+| 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle]<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
 | 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages] | 23 novembre |
