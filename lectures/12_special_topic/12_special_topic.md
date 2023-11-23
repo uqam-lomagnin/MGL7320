@@ -19,6 +19,8 @@
 - se fait  via le portail étudiant (https://portailetudiant.uqam.ca)
 - Disponible 24H débutant le jeudi 23 novembre 2023 à 18:00.
 
-## Prochaine séance
+## Prochaine(s) séance(s)
 
 - Présentations par les étudiants de leur projets en équipe
+- Quid du cours de conclusion ?
+  - Présentations par les étudiants de leur projets en équipe - 30 novembre -> 4 décembre ?
