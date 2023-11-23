@@ -12,11 +12,12 @@
 - [ ] [GitHub Classroom - Projet en équipe - Evolution de l'application ML](https://classroom.github.com/a/UoYzlEAi) - Due Nov 30, 2023, 18:00 (reprise des équipes existantes)
 
 ## Lectures du jour
-- :bulb: [Large Language Models]()
+- :bulb: [Large Language Models](./12_special_topic_slides.pdf)
 - :tv: [AutoGen FULL Tutorial with Python (Step-By-Step) 🤯 Build AI Agent Teams!](https://youtu.be/V2qZ_lgxTzg?si=3fVViTA70auVf2rS)
 
 ## Évaluation de l’enseignement
-- Disponible jusqu'au
+- se fait  via le portail étudiant (https://portailetudiant.uqam.ca)
+- Disponible jusqu'au 2023-12-04.
 
 ## Prochaine séance
 

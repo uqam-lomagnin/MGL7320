@@ -107,8 +107,8 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 2 novembre |
 | 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md)<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
-| 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages] + évaluation de l’enseignement | 23 novembre |
-| 13		  | Présentations des projets (présentations faites par les étudiants) | 30 novembre |
+| 12		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 23 novembre |
+| 13		  | Présentations par les étudiants de leur projets en équipe | 30 novembre |
 | 14      |	Examen | 7 décembre |
 | 15		  | Conclusion du cours | 14 décembre |
 
@@ -124,12 +124,13 @@ L'évaluation du cours est composé ainsi :
 | :couple: Rapport final du projet en équipe |	20 | 30 novembre |
 | :walking: Examen	| 20 | 7 décembre |
 
-:new: L’examen se fera en deux temps :
+L’examen se fera en deux temps :
 - sur papier, sans documents (1/3 temps, 1/3 note)
 - sur ordinateur (2/3 temps, 2/3 note):
-    - obligation d’avoir son laptop (avec accès à Internet) le jour de l’examen
-    - la remise se fera avec Github Classroom
-    - libre accès au cours et au Web (interdiction toutefois d’aide à distance)
+  - :new: **dans la salle de laboratoire du LAMISS, PK-S1550**
+  - obligation d’avoir son laptop (avec accès à Internet) le jour de l’examen
+  - la remise se fera avec Github Classroom
+  - libre accès au cours et au Web (interdiction toutefois d’aide à distance)
 
 
 Usage de [GitHub Classroom](https://classroom.github.com/classrooms/144286703-uqam-lomagnin-mgl7320-automne2023)
