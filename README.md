@@ -108,7 +108,7 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) | 9 novembre |
 | 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md)<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
 | 12		  | _Cours annulé du fait de grève_ | 23 novembre |
-| 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement |
+| 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 30 novembre |
 | 14      |	Examen (**en salle PK-S1525**) | 7 décembre |
 | 15		  | Présentations par les étudiants de leur projets en équipe | 14 décembre |
 
