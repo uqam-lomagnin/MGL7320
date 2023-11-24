@@ -17,7 +17,7 @@
 
 ## Évaluation de l’enseignement
 - se fait  via le portail étudiant (https://portailetudiant.uqam.ca)
-- Disponible 24H débutant le jeudi 23 novembre 2023 à 18:00.
+- Disponible 24H débutant le jeudi 30 novembre 2023 à 18:00.
 
 ## Prochaine(s) séance(s)
 
