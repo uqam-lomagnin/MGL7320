@@ -105,8 +105,8 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
 | 8     	| Présentation du plan du projet en équipe | 26 octobre |
 | 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 2 novembre |
-| 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) | 9 novembre |
-| 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md)<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
+| 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-deploiement-des-systemes-d-ia-1700169944859-87na02kyhk) | 9 novembre |
+| 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-explaining-models-and-predictions-1700605168967-8s40zbklx1)<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
 | 12		  | _Cours annulé du fait de grève_ | 23 novembre |
 | 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 30 novembre |
 | 14      |	Examen (**en salle PK-S1525**) | 7 décembre |
