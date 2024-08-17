@@ -2,7 +2,7 @@
 
 # MGL7320 - Ingénierie logicielle des systèmes d'IA
 
-## Cours  basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course) :
+## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course) :
 
 <img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/>
 
@@ -95,22 +95,21 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
-| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 7 septembre |
-| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-apprentissage-automatique-1695260512690-pib46rmqhk) | 14 septembre |
-| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-exigences-et-specifications-1695867471343-vyelza98n5) | 21 septembre |
-| 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-architecture-1696473432719-mhv4g5gjnt) | 28 septembre |
-| 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-validation-et-gestion-des-donnees-1697130824322-7g1ablx8rw) | 5 octobre |
-| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-selection-des-modeles-1697670906548-7jwxh94glm) | 12 octobre |
-| 7     	| ~~Mises à jour des projets (présentations faites par les étudiants)~~ | ~~19 octobre~~ |
-| 7       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 19 octobre |
-| 8     	| Présentation du plan du projet en équipe | 26 octobre |
-| 9       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 2 novembre |
-| 10      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-deploiement-des-systemes-d-ia-1700169944859-87na02kyhk) | 9 novembre |
-| 11      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-explaining-models-and-predictions-1700605168967-8s40zbklx1)<br>(+ remise Projet(s) personnel(s)) | 16 novembre |
-| 12		  | _Cours annulé du fait de grève_ | 23 novembre |
-| 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 30 novembre |
-| 14      |	Examen (**en salle PK-S1525**) | 7 décembre |
-| 15		  | Présentations par les étudiants de leur projets en équipe | 14 décembre |
+| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 3 septembre |
+| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-apprentissage-automatique-1695260512690-pib46rmqhk) | 10 septembre |
+| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-exigences-et-specifications-1695867471343-vyelza98n5) | 17 septembre |
+| 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-architecture-1696473432719-mhv4g5gjnt) | 24 septembre |
+| 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-validation-et-gestion-des-donnees-1697130824322-7g1ablx8rw) | 1 octobre |
+| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-selection-des-modeles-1697670906548-7jwxh94glm) | 8 octobre |
+| 7     	| Mises à jour des projets (présentations faites par les étudiants) | 15 octobre |
+| 8       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 22 octobre |
+| 9     	| Présentation du plan du projet en équipe | 29 octobre |
+| 10       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 5 novembre |
+| 11      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-deploiement-des-systemes-d-ia-1700169944859-87na02kyhk) | 12 novembre |
+| 12      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-explaining-models-and-predictions-1700605168967-8s40zbklx1)<br>(+ remise Projet(s) personnel(s)) | 19 novembre |
+| 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 26 novembre |
+| 14      |	Examen (**en salle PK-S1525**) | 3 décembre |
+| 15		  | Présentations par les étudiants de leur projets en équipe | 10 décembre |
 
 # Évaluation
 
