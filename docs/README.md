@@ -4,7 +4,9 @@
 
 :bulb: Contenu disponible sur [https://uqam-lomagnin.github.io/MGL7320/](https://uqam-lomagnin.github.io/MGL7320/)
 
-## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course) :
+## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course)
+<details>
+<summary>Détails</summary>
 
 <img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/>
 
@@ -32,25 +34,37 @@ publisher = {Data-Driven Analysis of Software (DAS) Lab, Concordia University},
 note = {https://github.com/create-se4ai/engineering-ai-systems-course}
 }
 ```
+</details>
 
-<img style="float:right;" align="right" src="https://www.clipartmax.com/png/small/30-303903_traffic-cone-clip-art-traffic-cone-clip-art.png" alt="Traffic Cone Clip Art - Traffic Cone Clip Art @clipartmax.com" width="150"/>
+## Description du cours
 
-# Description du cours
+Ce cours vise à fournir les concepts clés liés à l'ingénierie des systèmes d'intelligence artificielle.
 
-Ce cours vise à fournir les concepts et pratiques clés liés à l'ingénierie des systèmes d’intelligence artificielle (<i>MLOPs</i>). Les sujets inclus sont la spécification et l’architecture des systèmes d’intelligence artificielle, la validation et la gestion des données, le processus de sélection des modèles, les tests ainsi que le déploiement des systèmes d'intelligence artificielle. Les sujets spéciaux sur l'interprétation, l’équité et les opérations des systèmes d’intelligence artificielle peuvent aussi être inclus.
+## Objectifs
 
-Dans la mesure du possible seront proposés des travaux et exercices effectués au sein d'une plateforme <i>MLOPs</i> dédiée, hébergée gracieusement sur le <i>Cloud</i>.  
-
-# Objectifs d'Apprentissage du Cours
-
-L’objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant de façon concrète les concepts et processus de génie logiciel (GL) dans le contexte d’un système d’intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d’identifier les enjeux liés aux systèmes d’intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d’intelligence artificielle. Le cours se concentre sur l’interconnexion du GL et de l’IA, et sur la manière dont les sujets couverts s’appliquent aux systèmes basés sur l’IA.
+L'objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant les concepts et processus de génie logiciel (GL) dans le contexte d'un système d'intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d'identifier les enjeux liés aux systèmes d'intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d'intelligence artificielle. Le cours se concentre sur l'interconnexion du GL et de l'IA, et sur la manière dont les sujets couverts s'appliquent aux systèmes basés sur l'IA.
 
 <h2><p style="text-align: center;">
 <img style="float:center;" align="center" src="https://ml-ops.org/img/mlops-loop-en.jpg" width="450"/><br>
 <a href="https://ml-ops.org/content/mlops-principles">MLOPs</a>  
 </p></h2>
 
-# Présentation du chargé de cours (Laurent Magnin, PhD)
+## L'arrivée de l'IA générative...
+
+Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) (gratuit pour les étudiants):
+> L'arrivée de l'IA générative a un impact significatif sur l'ingénierie des systèmes d'IA. Cette nouvelle technologie permet aux systèmes d'IA de générer du contenu original, tels que des images, des textes, des vidéos, etc. Cela ouvre de nouvelles possibilités dans de nombreux domaines, tels que la création artistique, la génération de contenu automatisée, la simulation, etc.
+>
+>En ce qui concerne l'ingénierie des systèmes d'IA, l'IA générative présente des défis et des opportunités. D'une part, elle permet de créer des modèles plus puissants et plus créatifs. Cependant, cela soulève également des questions éthiques et de responsabilité, car les systèmes d'IA générative peuvent être utilisés pour créer du contenu trompeur ou nuisible.
+>
+>Les ingénieurs en IA doivent donc prendre en compte ces nouvelles capacités lors de la conception et du développement de systèmes d'IA. Ils doivent être conscients des implications éthiques et légales de l'utilisation de l'IA générative et mettre en place des mécanismes de contrôle et de transparence pour garantir que les systèmes d'IA générative sont utilisés de manière responsable.
+>
+>En résumé, l'arrivée de l'IA générative a un impact majeur sur l'ingénierie des systèmes d'IA, en ouvrant de nouvelles possibilités créatives mais également en posant des défis éthiques et de responsabilité. Les ingénieurs en IA doivent être conscients de ces implications et prendre des mesures pour garantir une utilisation responsable de l'IA générative.
+
+**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur le rôle futur des informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
+
+:question: Votre avis sur la question ?
+
+## Votre chargé de cours (Laurent Magnin, PhD)
 
 ![robocup](images/robocup.jpeg)
 
@@ -59,24 +73,24 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
   - Chargé de cours / professeur associé
 - Consultant:
   - Systèmes experts
-  - Big Data
+  - _Big Data_
 - Développeur / Architecte
 - Travaille présentement pour une compagnie d'assurance
   - Architecte IA
   - Scientifique de données
 
-# Contenu du cours
+## Contenu du cours
 
-## Format des séances
-- Les jeudis 18h00 à 21h00 (présentiel)  
-- Salle [SH-3540 | Campus de Montréal](http://carte.uqam.ca/#pavillon/sh)  
+### Format des séances
+- Les mardis de 18h00 à 21h00 (présentiel)  
+- Salle [SH-3560 - Campus de Montréal](http://carte.uqam.ca/#pavillon/sh)  
 - 10 minutes de pause (Disponible pour répondre aux questions)
 
 Les séances:
 - Inclurent des discussions actives
 - Utilisation de [AhaSlides](https://ahaslides.com/)
 
-## Classe d’Ingénierie
+### Classe d’Ingénierie
 <img style="float:right;" align="right" src="images/keep_calm.png" alt="keep_calm"  width="150"/>
 
 Concentré sur le jugement d’ingénierie
@@ -91,7 +105,7 @@ Non axé sur:
 
 :new: Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
 
-## Ce qui est attendu de vous
+### Ce qui est attendu de vous
 
 - Assister à des conférences et participer à des discussions
 
@@ -103,7 +117,7 @@ Non axé sur:
 
 - **Posez des questions.**
 
-## Calendrier
+### Calendrier
 
 Le calendrier ci-dessous est susceptible d’évoluer.
 
@@ -125,7 +139,7 @@ Le calendrier ci-dessous est susceptible d’évoluer.
 | 14      |	Examen (**en salle PK-S1525**) | 3 décembre |
 | 15		  | Présentations par les étudiants de leur projets en équipe | 10 décembre |
 
-# Évaluation
+## Évaluation
 
 L'évaluation du cours est composé ainsi :
 
@@ -150,7 +164,7 @@ Usage de [GitHub Classroom](https://classroom.github.com/classrooms/144286703-uq
 
 ![github_classroom](./images/github_classroom.png)
 
-# Médiagraphie
+## Médiagraphie
 
 Le cours [originel] fera occasionnellement référence au manuel suivant :
 - Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. Geoff Hulten
