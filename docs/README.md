@@ -2,6 +2,8 @@
 
 # MGL7320 - Ingénierie logicielle des systèmes d'IA
 
+:bulb: Contenu disponible sur [https://uqam-lomagnin.github.io/MGL7320/](https://uqam-lomagnin.github.io/MGL7320/)
+
 ## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course) :
 
 <img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/>
@@ -15,11 +17,23 @@ Alongside the language differences, there are other specific changes to the orig
 2. The course was structured as a practical course, instead of research oriented. Students have to develop a project, which is presented at the end of the course. The project is developed in groups of 3-4 students and has a practical component (i.e., developing a software system) and a research component (i.e., writing a report and presenting the results). More details about this can be found in the [course-project](./course-project) folder.
 1. The original set of papers were also updated as well as the slides style and content.
 
+### Want to use any of the course's materials?
+
+> You are free to use and distribute the course's material as long as you:
+- **Abide by the license**, please check the [LICENSE](LICENSING.md) conditions
+- **Notify us** and let us know how you plan to use the material using the contact e-mails below. There is no vetting process in place, we just want to be notified to have control of who is using the material.
+>
+> You can cite this repository using the following BibText entry, if you plan to use this material in a scientific work:
+```
+@misc{SE4AI_course,
+author = {Emad Shihab and Diego Elias Costa},
+title = {SE4AI course: Engineering AI-Based Software Systems},
+publisher = {Data-Driven Analysis of Software (DAS) Lab, Concordia University},
+note = {https://github.com/create-se4ai/engineering-ai-systems-course}
+}
+```
+
 <img style="float:right;" align="right" src="https://www.clipartmax.com/png/small/30-303903_traffic-cone-clip-art-traffic-cone-clip-art.png" alt="Traffic Cone Clip Art - Traffic Cone Clip Art @clipartmax.com" width="150"/>
-
-## Travail en cours !!!
-
-- :new: Disponible sur [https://github.com/lomagnin/MGL7320-automne-2023](https://github.com/lomagnin/MGL7320-automne-2023)
 
 # Description du cours
 
@@ -36,7 +50,7 @@ L’objectif du cours est de fournir aux étudiants gradués les connaissances t
 <a href="https://ml-ops.org/content/mlops-principles">MLOPs</a>  
 </p></h2>
 
-# Présentation du chargé de cours (Dr. Laurent Magnin)
+# Présentation du chargé de cours (Laurent Magnin, PhD)
 
 ![robocup](images/robocup.jpeg)
 
@@ -156,18 +170,8 @@ Autres références :
 
 - Discutez avec vos camarades de classe
 
-## Want to use any of the course's materials?
+<img style="float: right;" align="right" src="images/uqam.png" alt="uqàm" width="100"/>
 
-> You are free to use and distribute the course's material as long as you:
-- **Abide by the license**, please check the [LICENSE](LICENSING.md) conditions
-- **Notify us** and let us know how you plan to use the material using the contact e-mails below. There is no vetting process in place, we just want to be notified to have control of who is using the material.
->
-> You can cite this repository using the following BibText entry, if you plan to use this material in a scientific work:
-```
-@misc{SE4AI_course,
-author = {Emad Shihab and Diego Elias Costa},
-title = {SE4AI course: Engineering AI-Based Software Systems},
-publisher = {Data-Driven Analysis of Software (DAS) Lab, Concordia University},
-note = {https://github.com/create-se4ai/engineering-ai-systems-course}
-}
-```
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024
+
+
