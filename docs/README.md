@@ -5,42 +5,12 @@
 :bulb: Contenu disponible sur [https://uqam-lomagnin.github.io/MGL7320/](https://uqam-lomagnin.github.io/MGL7320/)
 
 ## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course)
-<details>
-<summary>Détails</summary>
-
-<img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/>
-
->This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queens University, and the University of Alberta.  
->
->This particular version of the course was given as a special course at [UQAM](www.uqam.ca) in the Winter of 2023, under the slot course MGL7811 - Sujets spéciaux en génie logiciel II.
-Hence, the description below - in French - is specific to this version of the course.
-Alongside the language differences, there are other specific changes to the original material:
-1. The course was structured to be given in 15 weeks, instead of 13 weeks. Hence, a few new modules were added.
-2. The course was structured as a practical course, instead of research oriented. Students have to develop a project, which is presented at the end of the course. The project is developed in groups of 3-4 students and has a practical component (i.e., developing a software system) and a research component (i.e., writing a report and presenting the results). More details about this can be found in the [course-project](./course-project) folder.
-1. The original set of papers were also updated as well as the slides style and content.
-
-### Want to use any of the course's materials?
-
-> You are free to use and distribute the course's material as long as you:
-- **Abide by the license**, please check the [LICENSE](LICENSING.md) conditions
-- **Notify us** and let us know how you plan to use the material using the contact e-mails below. There is no vetting process in place, we just want to be notified to have control of who is using the material.
->
-> You can cite this repository using the following BibText entry, if you plan to use this material in a scientific work:
-```
-@misc{SE4AI_course,
-author = {Emad Shihab and Diego Elias Costa},
-title = {SE4AI course: Engineering AI-Based Software Systems},
-publisher = {Data-Driven Analysis of Software (DAS) Lab, Concordia University},
-note = {https://github.com/create-se4ai/engineering-ai-systems-course}
-}
-```
-</details>
 
 ## Description du cours
 
 Ce cours vise à fournir les concepts clés liés à l'ingénierie des systèmes d'intelligence artificielle.
 
-## Objectifs
+### Objectifs
 
 L'objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant les concepts et processus de génie logiciel (GL) dans le contexte d'un système d'intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d'identifier les enjeux liés aux systèmes d'intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d'intelligence artificielle. Le cours se concentre sur l'interconnexion du GL et de l'IA, et sur la manière dont les sujets couverts s'appliquent aux systèmes basés sur l'IA.
 
@@ -49,7 +19,7 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 <a href="https://ml-ops.org/content/mlops-principles">MLOPs</a>  
 </p></h2>
 
-## L'arrivée de l'IA générative...
+### L'arrivée de l'IA générative...
 
 Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) (gratuit pour les étudiants):
 > L'arrivée de l'IA générative a un impact significatif sur l'ingénierie des systèmes d'IA. Cette nouvelle technologie permet aux systèmes d'IA de générer du contenu original, tels que des images, des textes, des vidéos, etc. Cela ouvre de nouvelles possibilités dans de nombreux domaines, tels que la création artistique, la génération de contenu automatisée, la simulation, etc.
@@ -60,9 +30,9 @@ Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/mana
 >
 >En résumé, l'arrivée de l'IA générative a un impact majeur sur l'ingénierie des systèmes d'IA, en ouvrant de nouvelles possibilités créatives mais également en posant des défis éthiques et de responsabilité. Les ingénieurs en IA doivent être conscients de ces implications et prendre des mesures pour garantir une utilisation responsable de l'IA générative.
 
-**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur le rôle futur des informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
+**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur votre rôle futur en tant qu'informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
 
-:question: Votre avis sur la question ?
+Votre avis sur la question :question:
 
 ## Votre chargé de cours (Laurent Magnin, PhD)
 
@@ -154,7 +124,6 @@ L'évaluation du cours est composé ainsi :
 L’examen se fera en deux temps :
 - sur papier, sans documents (1/3 temps, 1/3 note)
 - sur ordinateur (2/3 temps, 2/3 note):
-  - :new: **dans la salle de laboratoire du LAMISS, PK-S1525**
   - obligation d’avoir son laptop (avec accès à Internet) le jour de l’examen
   - la remise se fera avec Github Classroom
   - libre accès au cours et au Web (interdiction toutefois d’aide à distance)
