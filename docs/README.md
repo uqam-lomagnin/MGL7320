@@ -20,14 +20,12 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 </p></h2>
 
 
-Votre avis sur la question :question:
-
 ## Votre chargé de cours (Laurent Magnin, PhD)
 
 ![robocup](images/robocup.jpeg)
 
 - Doctorat en Intelligence Artificielle (1996)
-  - Anciennement chercheur en IA
+  - Initialement chercheur en IA
   - Chargé de cours / professeur associé
 - Consultant:
   - Systèmes experts
@@ -43,10 +41,7 @@ Votre avis sur la question :question:
 - Les mardis de 18h00 à 21h00 (présentiel)  
 - Salle [SH-3560 - Campus de Montréal](http://carte.uqam.ca/#pavillon/sh)  
 - 10 minutes de pause (Disponible pour répondre aux questions)
-
-Les séances:
-- Inclurent des discussions actives
-- Utilisation de [AhaSlides](https://ahaslides.com/)
+- Quizzes (par [AhaSlides](https://ahaslides.com/))
 
 ### Classe d’Ingénierie
 <img style="float:right;" align="right" src="images/keep_calm.png" alt="keep_calm"  width="150"/>
@@ -61,6 +56,54 @@ Non axé sur:
 
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
+### Calendrier
+
+Ce cours demande une refonte importante :
+- Plus représentatif de la réalité industrielle
+  - cours : 1/2 théorie, 1/2 pratique
+- Plus dédié à la mise en place des modèles (et non à leur conception)
+- Le domaine ne cesse d'évoluer, de plus en plus rapidement[^1]
+  - Ajout de l'IA générative (en + de l'apprentissage machine)
+  - Impact de Copilot & ChatGPT dans le domaine de la programmation
+
+[^1] Le monde académique a encore plus de mal à suivre que l'industrie...
+
+_De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
+
+| Semaine | Sujet | Date |
+| ------- | ----- | ---- |
+| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/) | 3 septembre |
+| 2	      |	[Docker & autres outils] | 10 septembre |
+| 3		    | [Apprentissage Automatique (ML)] | 17 septembre |
+| 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
+| 5	      |	[Validation et gestion des données] | 1 octobre |
+| 6	      | [Sélection des modèles] | 8 octobre |
+| 7     	| :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
+| 8       | [IA générative] | 22 octobre |
+| 9     	| [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
+| 10      | :couple: Présentation (non évaluée) du plan du projet en équipe | 5 novembre |
+| 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
+| 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
+| 13		  | Conclusion | 26 novembre |
+| 14      |	:walking: Examen | 3 décembre |
+| 15		  | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
+
+## Évaluation
+
+L'évaluation du cours est composé ainsi :
+
+| Éléments d’évaluation			| %  code & rapport | % présentation / démo |
+| ------------------------- | -- | ---- |
+| :walking: Projet personnel | 10 % | 10 % |
+| :couple: Projet en équipe |	30 %[^2] | 10 % |
+| :walking: Examen	| 40 % | |
+
+[^2] En fonction de la non participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
+
+:bulb: À noter l'usage de [GitHub Classroom](https://classroom.github.com/)
+
+![github_classroom](./images/github_classroom.png)
+
 ### L'arrivée de l'IA générative...
 
 Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) (gratuit pour les étudiants):
@@ -72,55 +115,13 @@ Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/mana
 >
 >En résumé, l'arrivée de l'IA générative a un impact majeur sur l'ingénierie des systèmes d'IA, en ouvrant de nouvelles possibilités créatives mais également en posant des défis éthiques et de responsabilité. Les ingénieurs en IA doivent être conscients de ces implications et prendre des mesures pour garantir une utilisation responsable de l'IA générative.
 
-**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur votre rôle futur en tant qu'informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
+**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur votre rôle futur en tant qu'informaticiens / programmeurs (_et donc de la façon dont vous devrez travailler et être évalués_).**
 
-### Calendrier
-
-Ce cours demande une refonte importante :
-- Plus représentatif de la réalité industrielle
-  - cours : 1/2 théorie, 1/2 pratique
-- Plus dédié à la mise en place des modèles (et non à leur conception)
-- Le domaine ne cesse d'évoluer, de plus en plus rapidement
-  - Ajout de l'IA générative (en + de l'apprentissage machine)
-  - Impact de Copilot & ChatGPT
-
-_De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
-
-| Semaine | Sujet | Date |
-| ------- | ----- | ---- |
-| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 3 septembre |
-| 2	      |	[Docker & autres outils] | 10 septembre |
-| 3		    | [Apprentissage Automatique (ML)] | 17 septembre |
-| 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
-| 5	      |	[Validation et gestion des données] | 1 octobre |
-| 6	      | [Sélection des modèles] | 8 octobre |
-| 7     	| :walking: Remise projets personnels (avec présentations faites par les étudiants) | 15 octobre |
-| 8       | [IA générative] | 22 octobre |
-| 9     	| [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
-| 10      | :couple: Présentation du plan du projet en équipe | 5 novembre |
-| 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
-| 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
-| 13		  | Conclusion | 26 novembre |
-| 14      |	Examen | 3 décembre |
-| 15		  | :couple: Présentations par les étudiants de leur projets en équipe | 10 décembre |
-
-## Évaluation
-
-L'évaluation du cours est composé ainsi :
-
-| Éléments d’évaluation			| % rapport | % présentation |
-| ------------------------- | -- | ---- |
-| :walking: Projet personnel | 20 | 10 |
-| :couple: Projet en équipe |	20 | 10 |
-| :walking: Examen	| 40 | |
-
-Usage de [GitHub Classroom](https://classroom.github.com/)
-
-![github_classroom](./images/github_classroom.png)
+Votre avis sur la question :question:
 
 ## Médiagraphie
 
-- [The Big Book of MLOps](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) (copie gratuite)
+- [ ] [The Big Book of MLOps](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) (copie gratuite)
 - [ ] [Take your ML projects from planning to production](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action)  (copie gratuite)
 - [ ] [The Big Book of Generative AI](https://www.databricks.com/resources/ebook/big-book-generative-ai)  (copie gratuite)
 
@@ -130,7 +131,7 @@ Usage de [GitHub Classroom](https://classroom.github.com/)
 
 - ~~Par clavardage (Teams)~~
 
-- Planifiez une réunion en personne / Zoom si nécessaire.
+- Planifier une réunion en personne / Zoom si nécessaire.
 
 - Poser des questions durant ou après la séance
 
