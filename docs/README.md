@@ -62,11 +62,11 @@ Ce cours demande une refonte importante :
 - Plus représentatif de la réalité industrielle
   - cours : 1/2 théorie, 1/2 pratique
 - Plus dédié à la mise en place des modèles (et non à leur conception)
-- Le domaine ne cesse d'évoluer, de plus en plus rapidement[^1]
+- Le domaine ne cesse d'évoluer, de plus en plus rapidement<sup>*</sup>
   - Ajout de l'IA générative (en + de l'apprentissage machine)
   - Impact de Copilot & ChatGPT dans le domaine de la programmation
 
-[^1] Le monde académique a encore plus de mal à suivre que l'industrie...
+<sup>*</sup> Le monde académique a probablement encore plus de mal à suivre que l'industrie...
 
 _De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 
@@ -95,10 +95,10 @@ L'évaluation du cours est composé ainsi :
 | Éléments d’évaluation			| %  code & rapport | % présentation / démo |
 | ------------------------- | -- | ---- |
 | :walking: Projet personnel | 10 % | 10 % |
-| :couple: Projet en équipe |	30 %[^2] | 10 % |
+| :couple: Projet en équipe |	30 %<sup>*</sup> | 10 % |
 | :walking: Examen	| 40 % | |
 
-[^2] En fonction de la non participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
+<sup>*</sup> En fonction de la non participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
 
 :bulb: À noter l'usage de [GitHub Classroom](https://classroom.github.com/)
 
