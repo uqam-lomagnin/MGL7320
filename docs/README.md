@@ -34,7 +34,7 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 - Travaille présentement pour une compagnie d'assurance
   - Architecte IA
   - Scientifique de données
-- Explore depuis juillet le monde des <br>
+- Explore depuis juillet 2024 le monde des <br>
 ![dogecoin](images/dogecoin.png)
 
 ## Contenu du cours
