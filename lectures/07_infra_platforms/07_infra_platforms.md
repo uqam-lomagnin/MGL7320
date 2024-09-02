@@ -8,7 +8,9 @@
 - Quizz - https://ahaslides.com/0W959
 
 ## Travail personnel attendu
-- [ ]
+- [ ] Créer un compte [Databricks Community edition
+](https://docs.databricks.com/en/getting-started/community-edition.html) (**Community** et non **Databricks Free Trial**)
+![Community Edition](community_ed.png)
 
 ## Présentations du jour
 

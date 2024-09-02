@@ -7,10 +7,9 @@
 - :bulb: [Introduction et aperçu de l’intelligence artificielle (IA)](./01_introduction.pdf)
 
 ## Travail personnel pour la semaine prochaine
-- [ ] Récupérer _et parcourir_ le livre [Take your ML projects from planning to production](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action)  (copie gratuite)
-
-- [ ] Créer un compte [Databricks Community edition
-](https://docs.databricks.com/en/getting-started/community-edition.html) (**Community** et non **Databricks Free Trial**)
-![Community Edition](community_ed.png)
-- [ ] Prévoir 3 questions / réponses (pertinentes) concernant le cours d'aujourd'hui
-  - Certains d'entre-vous devront les poser lors de la prochaine séance
+- [ ] Installez sur votre ordinateur (portable) :
+  - [ ] [Docker Desktop Engine](https://docs.docker.com/engine/install/)
+  - [ ] [Visual Studio Code](https://code.visualstudio.com)
+  - [ ] Dans VS Code, configurez [Copilot pour étudiants](https://adoption.microsoft.com/fr-fr/copilot-resources-for-education/)
+- [ ] Si ce n'est déjà fait (ou en complément), créez votre compte [GitHub](https://github.com). <br>
+:bulb: Utilisez un identifiant reconnaissable pour pouvoir vous attribuer vos projets.

@@ -19,18 +19,6 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 <a href="https://ml-ops.org/content/mlops-principles">MLOPs</a>  
 </p></h2>
 
-### L'arrivée de l'IA générative...
-
-Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) (gratuit pour les étudiants):
-> L'arrivée de l'IA générative a un impact significatif sur l'ingénierie des systèmes d'IA. Cette nouvelle technologie permet aux systèmes d'IA de générer du contenu original, tels que des images, des textes, des vidéos, etc. Cela ouvre de nouvelles possibilités dans de nombreux domaines, tels que la création artistique, la génération de contenu automatisée, la simulation, etc.
->
->En ce qui concerne l'ingénierie des systèmes d'IA, l'IA générative présente des défis et des opportunités. D'une part, elle permet de créer des modèles plus puissants et plus créatifs. Cependant, cela soulève également des questions éthiques et de responsabilité, car les systèmes d'IA générative peuvent être utilisés pour créer du contenu trompeur ou nuisible.
->
->Les ingénieurs en IA doivent donc prendre en compte ces nouvelles capacités lors de la conception et du développement de systèmes d'IA. Ils doivent être conscients des implications éthiques et légales de l'utilisation de l'IA générative et mettre en place des mécanismes de contrôle et de transparence pour garantir que les systèmes d'IA générative sont utilisés de manière responsable.
->
->En résumé, l'arrivée de l'IA générative a un impact majeur sur l'ingénierie des systèmes d'IA, en ouvrant de nouvelles possibilités créatives mais également en posant des défis éthiques et de responsabilité. Les ingénieurs en IA doivent être conscients de ces implications et prendre des mesures pour garantir une utilisation responsable de l'IA générative.
-
-**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur votre rôle futur en tant qu'informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
 
 Votre avis sur la question :question:
 
@@ -73,11 +61,23 @@ Non axé sur:
 
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
+### L'arrivée de l'IA générative...
+
+Généré par [Copilot](https://docs.github.com/fr/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) (gratuit pour les étudiants):
+> L'arrivée de l'IA générative a un impact significatif sur l'ingénierie des systèmes d'IA. Cette nouvelle technologie permet aux systèmes d'IA de générer du contenu original, tels que des images, des textes, des vidéos, etc. Cela ouvre de nouvelles possibilités dans de nombreux domaines, tels que la création artistique, la génération de contenu automatisée, la simulation, etc.
+>
+>En ce qui concerne l'ingénierie des systèmes d'IA, l'IA générative présente des défis et des opportunités. D'une part, elle permet de créer des modèles plus puissants et plus créatifs. Cependant, cela soulève également des questions éthiques et de responsabilité, car les systèmes d'IA générative peuvent être utilisés pour créer du contenu trompeur ou nuisible.
+>
+>Les ingénieurs en IA doivent donc prendre en compte ces nouvelles capacités lors de la conception et du développement de systèmes d'IA. Ils doivent être conscients des implications éthiques et légales de l'utilisation de l'IA générative et mettre en place des mécanismes de contrôle et de transparence pour garantir que les systèmes d'IA générative sont utilisés de manière responsable.
+>
+>En résumé, l'arrivée de l'IA générative a un impact majeur sur l'ingénierie des systèmes d'IA, en ouvrant de nouvelles possibilités créatives mais également en posant des défis éthiques et de responsabilité. Les ingénieurs en IA doivent être conscients de ces implications et prendre des mesures pour garantir une utilisation responsable de l'IA générative.
+
+**L'IA générative va non seulement avoir un impact sur le contenu de ce cours, mais plus généralement sur votre rôle futur en tant qu'informaticiens (_et donc de la façon dont vous devrez travailler et être évalués_).**
 
 ### Calendrier
 
 Ce cours demande une refonte importante :
-- Plus représentatif de l'industrie
+- Plus représentatif de la réalité industrielle
   - cours : 1/2 théorie, 1/2 pratique
 - Plus dédié à la mise en place des modèles (et non à leur conception)
 - Le domaine ne cesse d'évoluer, de plus en plus rapidement
@@ -89,8 +89,8 @@ _De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
 | 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 3 septembre |
-| 2	      |	[Apprentissage Automatique (ML)] | 10 septembre |
-| 3		    | [Docker] | 17 septembre |
+| 2	      |	[Docker & autres outils] | 10 septembre |
+| 3		    | [Apprentissage Automatique (ML)] | 17 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
 | 5	      |	[Validation et gestion des données] | 1 octobre |
 | 6	      | [Sélection des modèles] | 8 octobre |
@@ -110,8 +110,8 @@ L'évaluation du cours est composé ainsi :
 
 | Éléments d’évaluation			| % rapport | % présentation |
 | ------------------------- | -- | ---- |
-| :walking: Projet personnel | 15 | 15 |
-| :couple: Projet en équipe |	15 | 15 |
+| :walking: Projet personnel | 20 | 10 |
+| :couple: Projet en équipe |	20 | 10 |
 | :walking: Examen	| 40 | |
 
 Usage de [GitHub Classroom](https://classroom.github.com/)

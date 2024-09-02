@@ -157,5 +157,4 @@ An older format (more verbose, harder to read) that is mostly used for SOAP (abb
 > :nut_and_bolt: Prod vs Non Prod
 
 ## Travail personnel pour la semaine prochaine
-- [ ] Prévoir 3 questions / réponses (pertinentes) concernant le cours d'aujourd'hui
-  - Certains d'entre-vous devront les poser lors de la prochaine séance
+- [ ] Récupérer _et parcourir_ le livre [Take your ML projects from planning to production](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action)  (copie gratuite)
