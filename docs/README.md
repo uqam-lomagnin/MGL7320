@@ -34,6 +34,8 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 - Travaille présentement pour une compagnie d'assurance
   - Architecte IA
   - Scientifique de données
+- Explore depuis juillet le monde des <br>
+![dogecoin](images/dogecoin.png)
 
 ## Contenu du cours
 
@@ -129,9 +131,9 @@ Votre avis sur la question :question:
 
 - Par courriel : magnin [dot] laurent_yves [at] uqam [dot] ca (Inclure [MLG7320] dans le titre du message)
 
-- ~~Par clavardage (Teams)~~
+- Par clavardage (Teams "GROUPECOURS-20243-MGL7320-040" ?)
 
-- Planifier une réunion en personne / Zoom si nécessaire.
+- _Si nécessaire_, planifier une réunion en personne ou en ligne.
 
 - Poser des questions durant ou après la séance
 
