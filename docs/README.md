@@ -2,9 +2,9 @@
 
 # MGL7320 - Ingénierie logicielle des systèmes d'IA
 
-:bulb: Contenu disponible sur [https://uqam-lomagnin.github.io/MGL7320/](https://uqam-lomagnin.github.io/MGL7320/)
+### :bulb: Ce contenu est disponible sur [https://uqam-lomagnin.github.io/MGL7320/](https://uqam-lomagnin.github.io/MGL7320/)
 
-## Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course)
+### :bulb: Cours originellement basé sur [SE4AI Training Program](https://github.com/create-se4ai/engineering-ai-systems-course)
 
 ## Description du cours
 
@@ -73,73 +73,56 @@ Non axé sur:
 
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
-:new: Tentative : :nut_and_bolt: projets sur des **environnements <i>Cloud</i>**.
-
-### Ce qui est attendu de vous
-
-- Assister à des conférences et participer à des discussions
-
-- Faites les lectures et les devoirs assignés!
-
-- Travaillez sur votre projet en continu.
-
-- Apportez vos idées et vos préoccupations en classe
-
-- **Posez des questions.**
 
 ### Calendrier
 
-Le calendrier ci-dessous est susceptible d’évoluer.
+Ce cours demande une refonte importante :
+- Plus représentatif de l'industrie
+  - cours : 1/2 théorie, 1/2 pratique
+- Plus dédié à la mise en place des modèles (et non à leur conception)
+- Le domaine ne cesse d'évoluer, de plus en plus rapidement
+  - Ajout de l'IA générative (en + de l'apprentissage machine)
+  - Impact de Copilot & ChatGPT
+
+_De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
 | 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/01_introduction.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-introduction-1694396648784-rphlf4xe68) | 3 septembre |
-| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/02_machine_learning.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-apprentissage-automatique-1695260512690-pib46rmqhk) | 10 septembre |
-| 3		    | [Exigences et spécifications des systèmes d'IA](./lectures/03_requirements/03_requirements.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-exigences-et-specifications-1695867471343-vyelza98n5) | 17 septembre |
-| 4       | [Architecture des systèmes d'intelligence artificielle](./lectures/04_architecture/04_architecture.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-architecture-1696473432719-mhv4g5gjnt) | 24 septembre |
-| 5	      |	[Validation et gestion des données](./lectures/05_data_validation/05_data_validation.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-validation-et-gestion-des-donnees-1697130824322-7g1ablx8rw) | 1 octobre |
-| 6	      | [Sélection des modèles](./lectures/06_model_selection/06_model_selection.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-selection-des-modeles-1697670906548-7jwxh94glm) | 8 octobre |
-| 7     	| Mises à jour des projets (présentations faites par les étudiants) | 15 octobre |
-| 8       | [Infrastructure(s), Outils et Plateformes](./lectures/07_infra_platforms/07_infra_platforms.md) | 22 octobre |
-| 9     	| Présentation du plan du projet en équipe | 29 octobre |
-| 10       | [Test des systèmes d'intelligence artificielle](./lectures/09_testing/09_testing.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-tests-1699564632973-5w82moiprm) | 5 novembre |
-| 11      | [Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploying/10_deploying.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-deploiement-des-systemes-d-ia-1700169944859-87na02kyhk) | 12 novembre |
-| 12      |	[Confiance dans la prédiction et l'explicabilité du modèle](lectures/11_explanation_trust/11_explanation_trust.md) - [Quizz](https://presenter.ahaslides.com/share/mgl7320-explaining-models-and-predictions-1700605168967-8s40zbklx1)<br>(+ remise Projet(s) personnel(s)) | 19 novembre |
-| 13		  | [Sujets spéciaux: l'applicabilité de modèles des langages](./lectures/12_special_topic/12_special_topic.md) + évaluation de l’enseignement | 26 novembre |
-| 14      |	Examen (**en salle PK-S1525**) | 3 décembre |
-| 15		  | Présentations par les étudiants de leur projets en équipe | 10 décembre |
+| 2	      |	[Apprentissage Automatique (ML)] | 10 septembre |
+| 3		    | [Docker] | 17 septembre |
+| 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
+| 5	      |	[Validation et gestion des données] | 1 octobre |
+| 6	      | [Sélection des modèles] | 8 octobre |
+| 7     	| :walking: Remise projets personnels (avec présentations faites par les étudiants) | 15 octobre |
+| 8       | [IA générative] | 22 octobre |
+| 9     	| [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
+| 10      | :couple: Présentation du plan du projet en équipe | 5 novembre |
+| 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
+| 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
+| 13		  | Conclusion | 26 novembre |
+| 14      |	Examen | 3 décembre |
+| 15		  | :couple: Présentations par les étudiants de leur projets en équipe | 10 décembre |
 
 ## Évaluation
 
 L'évaluation du cours est composé ainsi :
 
-| Éléments d’évaluation			| %  | Date (de remise) |
+| Éléments d’évaluation			| % rapport | % présentation |
 | ------------------------- | -- | ---- |
-| :couple: [Présentation du plan du projet en équipe](./projets/projets.md) |	10 | ~~19 octobre~~ 26 octobre |
-| :walking: [Projet(s) personnel(s)](./projets/projets.md) | 40 | :new: 19 novembre  |
-| :couple: Démonstration du projet en équipe |	10 | 14 décembre |
-| :couple: Rapport final du projet en équipe |	20 | 14 décembre |
-| :walking: Examen	| 20 | 7 décembre |
+| :walking: Projet personnel | 15 | 15 |
+| :couple: Projet en équipe |	15 | 15 |
+| :walking: Examen	| 40 | |
 
-L’examen se fera en deux temps :
-- sur papier, sans documents (1/3 temps, 1/3 note)
-- sur ordinateur (2/3 temps, 2/3 note):
-  - obligation d’avoir son laptop (avec accès à Internet) le jour de l’examen
-  - la remise se fera avec Github Classroom
-  - libre accès au cours et au Web (interdiction toutefois d’aide à distance)
-
-
-Usage de [GitHub Classroom](https://classroom.github.com/classrooms/144286703-uqam-lomagnin-mgl7320-automne2023)
+Usage de [GitHub Classroom](https://classroom.github.com/)
 
 ![github_classroom](./images/github_classroom.png)
 
 ## Médiagraphie
 
-Le cours [originel] fera occasionnellement référence au manuel suivant :
-- Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. Geoff Hulten
-
-Autres références :
 - [The Big Book of MLOps](https://www.databricks.com/resources/ebook/the-big-book-of-mlops) (copie gratuite)
+- [ ] [Take your ML projects from planning to production](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action)  (copie gratuite)
+- [ ] [The Big Book of Generative AI](https://www.databricks.com/resources/ebook/big-book-generative-ai)  (copie gratuite)
 
 ## Questions et communication
 
