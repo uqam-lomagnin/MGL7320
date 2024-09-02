@@ -98,7 +98,7 @@ L'évaluation du cours est composé ainsi :
 | :couple: Projet en équipe |	30 %<sup>*</sup> | 10 % |
 | :walking: Examen	| 40 % | |
 
-<sup>*</sup> En fonction de la non participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
+<sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
 
 :bulb: À noter l'usage de [GitHub Classroom](https://classroom.github.com/)
 
