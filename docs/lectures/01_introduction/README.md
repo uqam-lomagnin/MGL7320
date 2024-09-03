@@ -7,9 +7,10 @@
 - :bulb: [Introduction et aperçu de l’intelligence artificielle (IA)](./01_introduction.pdf)
 
 ## Travail personnel pour la semaine prochaine
-- [ ] Installez sur votre ordinateur (portable) :
-  - [ ] [Docker Desktop Engine](https://docs.docker.com/engine/install/)
+- Installez sur votre ordinateur (portable) :
   - [ ] [Visual Studio Code](https://code.visualstudio.com)
-  - [ ] Dans VS Code, configurez [Copilot pour étudiants](https://adoption.microsoft.com/fr-fr/copilot-resources-for-education/)
+      - [ ] y [installer le plugin](https://code.visualstudio.com/docs/editor/extension-marketplace) [Jupyter](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) 
+    - [ ] configurez [Copilot pour étudiants](https://adoption.microsoft.com/fr-fr/copilot-resources-for-education/)
+  - [ ] [Docker Desktop Engine](https://docs.docker.com/engine/install/)
 - [ ] Si ce n'est déjà fait (ou en complément), créez votre compte [GitHub](https://github.com). <br>
 :bulb: Utilisez si possible un identifiant reconnaissable pour pouvoir vous attribuer plus facilement vos projets.
