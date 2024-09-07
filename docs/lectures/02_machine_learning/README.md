@@ -58,10 +58,10 @@ Joe:001,Mary:002,Cathy:003,Bob:004;
 
 #### Semi-structured
 ##### JSon
-JSon is a subset of the JavaScript Object Notation syntax
-- data stored in name/value pairs
-- records separated by commas
-- field names & strings are wrapped by double quotes
+JSon est un sous-ensemble de la syntaxe JavaScript Object Notation
+- les données sont stockées sous forme de paires nom/valeur
+- les enregistrements sont séparés par des virgules
+- les noms de champs et les chaînes de caractères sont entourés de guillemets doubles
 
 ``` json
 {
@@ -93,10 +93,10 @@ JSon is a subset of the JavaScript Object Notation syntax
 ```
 
 ##### YAML
-is a superset of JSON
-- `.yml` files [begin with '---', marking the start of the document] (optional)
-- key value pairs are separated by colon
-- lists begin with a hyphen
+est un sur-ensemble de JSON
+- les fichiers `.yml` [commencent par '---', marquant le début du document] (optionnel)
+- les paires clé-valeur sont séparées par des deux-points
+- les listes commencent par un tiret
 
 ``` yaml
 ---
@@ -118,7 +118,7 @@ employees:
 ```
 
 ##### XML
-An older format (more verbose, harder to read) that is mostly used for SOAP (abbreviation for Simple Object Access Protocol) exchanges, legacy configuration files, as well as Web applications (XML is similar to HTML)
+Un format plus ancien (plus verbeux, plus difficile à lire) qui est principalement utilisé pour les échanges SOAP (abréviation de Simple Object Access Protocol), les fichiers de configuration hérités, ainsi que les applications Web (XML est similaire à HTML)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -150,11 +150,41 @@ An older format (more verbose, harder to read) that is mostly used for SOAP (abb
 </root>
 ```
 
-:bulb: Tip, to convert CSV to JSON, JSON to YAML, etc. online tools are available.
+:bulb: Astuce, des outils en ligne sont disponibles pour convertir CSV en JSON, JSON en YAML, etc. :warning: Ne pas utiliser pour des données sensibles !
 </details>
 
-## Discussion
-> :nut_and_bolt: Prod vs Non Prod
+## Exercice pratique
+
+- [ ] Récupérez le notebook [MGL7811_GermanCreditReport](https://www.kaggle.com/code/diegoeliascosta/mgl7811-germancreditreport)
+
+![Download_code](images/Download_code.png){:width="50%"}
+
+- [ ] Ainsi que les données, disponibles dans l'onglet "Input'
+
+:bulb: J'utilise l'extension suivante pour aider à la visualisation du fichier CSV : [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+- [ ] Installez le tout dans votre environnement de travail (VS Code)
+
+- [ ] Configurez votre environnement et y exécuter le notebook Jupyter
+  - [ ] [Installing conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+  - [ ] [Pip vs Conda](https://saturncloud.io/blog/pip-vs-conda-a-guide-to-managing-python-packages-for-data-scientists/)
+  <br>
+Sur mon ordinateur (Mac OS) :
+```shell
+conda install -c anaconda ipykernel
+conda create -n mgl7320  python=3.11 ipykernel
+conda activate mgl7320
+brew install libomp   [ou équivalent pour Windows]
+pip install numpy pandas seaborn matplotlib scikit-learn xgboost
+```
+:bulb: N'oubliez pas que Copilot est votre ami !
+  - [ ] [Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py#)
+  - [ ] [Set Up Jupyter Notebook in VSCode Using Conda Env](https://medium.com/@jasminewu_yi/set-up-jupyter-notebook-in-vscode-using-conda-env-69d50fc51d78)
+  <br>
+  :bulb: `Ctrl-Shift-P` (Windows) `Cmd-Shift-P` (Mac)
+  ![Reload Window](images/reload_window.png)
 
 ## Travail personnel pour la semaine prochaine
-- [ ] Récupérer _et parcourir_ le livre [Take your ML projects from planning to production](https://www.databricks.com/resources/ebook/machine-learning-engineering-in-action)  (copie gratuite)
+- [ ] Complétez l'exécution du notebook
+  - [ ] Essayez d'en comprendre le contenu
+  - [ ] La librairie [eli5](https://pypi.org/project/eli5/) n'étant plus maintenue depuis mai 2022, elle n'est plus compatible avec scikit-learn. Remplacez donc le code impacté (:bulb: Copilot est votre ami !)
