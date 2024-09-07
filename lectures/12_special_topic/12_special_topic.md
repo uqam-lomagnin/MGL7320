@@ -24,3 +24,7 @@
 - Présentations par les étudiants de leur projets en équipe
 - Quid du cours de conclusion ?
   - Présentations par les étudiants de leur projets en équipe - 30 novembre -> 4 décembre ?
+
+  <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+  
+  ### Copyright (c)Laurent Magnin / UQÀM 2023-2024

@@ -20,3 +20,7 @@
 
 - "Sujets spéciaux: l'applicabilité de modèles des langages"
 - Évaluation de l’enseignement
+
+<img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024

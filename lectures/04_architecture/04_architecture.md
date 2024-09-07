@@ -17,3 +17,7 @@
 ## Prochaine séance
 - Validation et gestion des données (lecture)
 - ~~Mise à jour Docker de [SmartMeter](https://github.com/Logimethods/smart-meter)~~
+
+<img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024

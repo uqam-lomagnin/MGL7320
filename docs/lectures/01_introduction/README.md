@@ -14,3 +14,7 @@
   - [ ] [Docker Desktop Engine](https://docs.docker.com/engine/install/)
 - [ ] Si ce n'est déjà fait (ou en complément), créez votre compte [GitHub](https://github.com). <br>
 :bulb: Utilisez si possible un identifiant reconnaissable pour pouvoir vous attribuer plus facilement vos projets.
+
+<img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024

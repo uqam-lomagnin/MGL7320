@@ -11,9 +11,7 @@
 ## Lectures du jour
 - :bulb: [Apprentissage Machine (ML)](./02_machine_learning.pdf)
 
-## (Various) Data Structures
-<details>
-<summary>À déplier</summary>
+## (Diverses) structures de données
 
 |  Storage | Model |  Similar to | Benefits
 |---|---|---|---|
@@ -151,13 +149,12 @@ Un format plus ancien (plus verbeux, plus difficile à lire) qui est principalem
 ```
 
 :bulb: Astuce, des outils en ligne sont disponibles pour convertir CSV en JSON, JSON en YAML, etc. :warning: Ne pas utiliser pour des données sensibles !
-</details>
 
 ## Exercice pratique
 
 - [ ] Récupérez le notebook [MGL7811_GermanCreditReport](https://www.kaggle.com/code/diegoeliascosta/mgl7811-germancreditreport)
 
-![Download_code](images/Download_code.png){:width="50%"}
+![Download_code](images/Download_code.png){:width="10%"}
 
 - [ ] Ainsi que les données, disponibles dans l'onglet "Input'
 
@@ -188,3 +185,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn xgboost
 - [ ] Complétez l'exécution du notebook
   - [ ] Essayez d'en comprendre le contenu
   - [ ] La librairie [eli5](https://pypi.org/project/eli5/) n'étant plus maintenue depuis mai 2022, elle n'est plus compatible avec scikit-learn. Remplacez donc le code impacté (:bulb: Copilot est votre ami !)
+
+<img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024

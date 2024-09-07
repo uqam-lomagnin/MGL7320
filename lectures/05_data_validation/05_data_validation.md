@@ -25,3 +25,7 @@ Comment communiquer entre nous / vous ? Teams ? Google Classroom ? Autre ?
 ## Prochaine séance
 
 - Sélection des modèles
+
+<img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2023-2024
