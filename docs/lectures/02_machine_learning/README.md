@@ -23,7 +23,8 @@
 
 ### Base de données relationnelle
 
-![DB Tables](https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/example-relational2.png)
+![DB Tables](./images/example-relational2.png)
+<small>https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/example-relational2.png</small>
 
 ### Exemples des mêmes données déclinées dans différents formats NoSQL
 (Provenant de la page Wikipedia [Column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS))
