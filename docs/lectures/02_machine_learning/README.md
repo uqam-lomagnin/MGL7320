@@ -9,26 +9,24 @@
 - Questions / réponses concernant le cours de la semaine dernière
 
 ## Lectures du jour
-- :bulb: [Apprentissage automatique (_Machine Learning_)](./02_machine_learning.pdf)
+- :book: [Apprentissage automatique (_Machine Learning_)](./02_machine_learning.pdf)
 
 ## (Diverses) structures de données
 
-|  Storage | Model |  Similar to | Benefits
+|  Stockage | Modèle |  Similaire à | Avantages
 |---|---|---|---|
-|  Relational Database | Relational | MySQL, Oracle DB, etc. | Complex structures, SQL (Structured Query Language)
-|  Text File |  Unstructured |  Plain English, French, etc. | Natural Language
-|  CSV Files |  Row-oriented |  Excel | Compact, Splittable
-|  [Parquet](https://en.wikipedia.org/wiki/Apache_Parquet) |  Column-oriented |  [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) | Could be more efficient (R/W & Compression) than Row-oriented
-|  [MongoDB](https://en.wikipedia.org/wiki/MongoDB) |  Semi-structured |  JSON, XML, YAML, [Avro](https://en.wikipedia.org/wiki/Apache_Avro) | Easy to read (self-describing), flexible
+|  Base de données relationnelle | Relationnel | MySQL, Oracle DB, etc. | Structures complexes, SQL (Structured Query Language)
+|  Fichier texte |  Non structuré |  Anglais simple, français, etc. | Langage naturel
+|  Fichiers CSV |  Orienté ligne par ligne |  Excel | Compact, divisibles
+|  [Parquet](https://en.wikipedia.org/wiki/Apache_Parquet) |  Orienté colonnes |  [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) | Peut être plus efficace (lecture/écriture et compression) que l'orientation ligne par ligne
+|  [MongoDB](https://en.wikipedia.org/wiki/MongoDB) |  Semi-structuré |  JSON, XML, YAML, [Avro](https://en.wikipedia.org/wiki/Apache_Avro) | Facile à lire (auto-descriptif), flexible
 
 ### Base de données relationnelle
 
 ![DB Tables](https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/example-relational2.png)
 
-- https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/
-
 ### Exemples des mêmes données déclinées dans différents formats NoSQL
-(taken from [Column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS) Wiki Page)
+(Provenant de la page Wikipedia [Column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS))
 
 | RowId	| EmpId	| Lastname	| Firstname	| Salary |
 |---|---|---|---|---|
@@ -56,7 +54,7 @@ Joe:001,Mary:002,Cathy:003,Bob:004;
 
 #### Semi-structuré
 ##### JSon
-JSon est un sous-ensemble de la syntaxe JavaScript Object Notation
+JSon est un sous-ensemble de la syntaxe _JavaScript Object Notation_
 - les données sont stockées sous forme de paires nom/valeur
 - les enregistrements sont séparés par des virgules
 - les noms de champs et les chaînes de caractères sont entourés de guillemets doubles
