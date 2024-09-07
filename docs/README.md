@@ -75,7 +75,7 @@ _De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
 | 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/) | 3 septembre |
-| 2	      |	[Apprentissage Automatique (ML)] | 10 septembre |
+| 2	      |	[Apprentissage Automatique (ML)](docs/lectures/02_machine_learning/) | 10 septembre |
 | 3		    | [Docker & autres outils] | 17 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
 | 5	      |	[Validation et gestion des données] | 1 octobre |

@@ -148,13 +148,15 @@ Un format plus ancien (plus verbeux, plus difficile à lire) qui est principalem
 </root>
 ```
 
-:bulb: Astuce, des outils en ligne sont disponibles pour convertir CSV en JSON, JSON en YAML, etc. :warning: Ne pas utiliser pour des données sensibles !
+:bulb: Astuce, des outils en ligne sont disponibles pour convertir CSV en JSON, JSON en YAML, etc. 
+<br>
+:warning: Ne pas utiliser pour des données sensibles !
 
 ## Exercice pratique
 
 - [ ] Récupérez le notebook [MGL7811_GermanCreditReport](https://www.kaggle.com/code/diegoeliascosta/mgl7811-germancreditreport)
 
-![Download_code](images/Download_code.png){:width="10%"}
+![Download_code](images/Download_code.png){:width="25%"}
 
 - [ ] Ainsi que les données, disponibles dans l'onglet "Input'
 
@@ -171,14 +173,14 @@ Sur mon ordinateur (Mac OS) :
 conda install -c anaconda ipykernel
 conda create -n mgl7320  python=3.11 ipykernel
 conda activate mgl7320
-brew install libomp   [ou équivalent pour Windows]
+brew install libomp   [ou équivalent pour Windows, indispensable pour exécuter xgboost]
 pip install numpy pandas seaborn matplotlib scikit-learn xgboost
 ```
-:bulb: N'oubliez pas que Copilot est votre ami !
+
   - [ ] [Python Interactive window](https://code.visualstudio.com/docs/python/jupyter-support-py#)
   - [ ] [Set Up Jupyter Notebook in VSCode Using Conda Env](https://medium.com/@jasminewu_yi/set-up-jupyter-notebook-in-vscode-using-conda-env-69d50fc51d78)
   <br>
-  :bulb: `Ctrl-Shift-P` (Windows) `Cmd-Shift-P` (Mac)
+  :bulb: Pour accéder à cette console de VS Code : `Ctrl-Shift-P` (Windows) `Cmd-Shift-P` (Mac)
   ![Reload Window](images/reload_window.png)
 
 ## Travail personnel pour la semaine prochaine
