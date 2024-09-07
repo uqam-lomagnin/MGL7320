@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
 
 ## MGL7320 - Ingénierie logicielle des systèmes d'IA
-# 02 - Apprentissage Machine (ML)
+# 02 - Apprentissage Machine (Machine Learning)
 
 ## Prelude
 
@@ -9,7 +9,7 @@
 - Questions / réponses concernant le cours de la semaine dernière
 
 ## Lectures du jour
-- :bulb: [Apprentissage Machine (ML)](./02_machine_learning.pdf)
+- :bulb: [Apprentissage automatique (_Machine Learning_)](./02_machine_learning.pdf)
 
 ## (Diverses) structures de données
 
@@ -21,13 +21,13 @@
 |  [Parquet](https://en.wikipedia.org/wiki/Apache_Parquet) |  Column-oriented |  [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra) | Could be more efficient (R/W & Compression) than Row-oriented
 |  [MongoDB](https://en.wikipedia.org/wiki/MongoDB) |  Semi-structured |  JSON, XML, YAML, [Avro](https://en.wikipedia.org/wiki/Apache_Avro) | Easy to read (self-describing), flexible
 
-### Relational Database
+### Base de données relationnelle
 
 ![DB Tables](https://docs.microsoft.com/en-us/azure/architecture/data-guide/images/example-relational2.png)
 
 - https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/
 
-### Example of the same Data declined in various NoSQL Formats
+### Exemples des mêmes données déclinées dans différents formats NoSQL
 (taken from [Column-oriented](https://en.wikipedia.org/wiki/Column-oriented_DBMS) Wiki Page)
 
 | RowId	| EmpId	| Lastname	| Firstname	| Salary |
@@ -37,7 +37,7 @@
 | 003	| 11	| Johnson	| Cathy	| |
 | 004	| 22	| Jones	| Bob	| 55000
 
-#### Row-oriented
+#### Orienté ligne par ligne
 ```cs
 RowId:EmpId,Lastname,Firstname,Salary
 001:10,Smith,Joe,40000;
@@ -46,7 +46,7 @@ RowId:EmpId,Lastname,Firstname,Salary
 004:22,Jones,Bob,55000;
 ```
 
-#### Column-oriented
+#### Orienté colonnes
 ```cs
 10:001,12:002,11:003,22:004;
 Smith:001,Johnson:003,Jones:004;
@@ -54,7 +54,7 @@ Joe:001,Mary:002,Cathy:003,Bob:004;
 40000:001,50000:002,55000:004;
 ```
 
-#### Semi-structured
+#### Semi-structuré
 ##### JSon
 JSon est un sous-ensemble de la syntaxe JavaScript Object Notation
 - les données sont stockées sous forme de paires nom/valeur
