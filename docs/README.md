@@ -86,7 +86,7 @@ _De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 | 10      | :couple: Présentation (non évaluée) du plan du projet en équipe | 5 novembre |
 | 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
-| 13		  | Conclusion | 26 novembre |
+| 13		  | :new: Atelier Databricks (sous réserve) | 26 novembre |
 | 14      |	:walking: Examen | 3 décembre |
 | 15		  | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
 
@@ -98,7 +98,7 @@ L'évaluation du cours est composé ainsi :
 | ------------------------- | -- | ---- |
 | :walking: Projet personnel | 10 % | 10 % |
 | :couple: Projet en équipe |	30 %<sup>*</sup> | 10 % |
-| :walking: Examen	| 40 % | |
+| :walking: Examen (3h, papier) | 40 % | |
 
 <sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
 
