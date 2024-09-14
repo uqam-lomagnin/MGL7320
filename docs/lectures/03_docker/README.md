@@ -12,33 +12,24 @@
 - :book: [Docker & Kubernetes - aka K8s](<inf8200_cours3 - docker.pdf>)
 
 ## Pratique
-
-- <details>
-  <summary>Références utiles</summary>
-
+- Références utiles
     * https://docs.docker.com/engine/reference/commandline/history/
     * https://docs.docker.com/engine/reference/commandline/exec/
     * https://www.cyberciti.biz/faq/bash-infinite-loop/
     * https://www.rapidtables.com/code/linux/ls.html
-    </details>
+ 
 
-- [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
-    - ```docker run -dp 80:80 docker/getting-started``` (Intel CPU)
-    - ```docker run --platform linux/amd64 -dp 80:80 docker/getting-started``` (Mac Silicon CPU)
+- Explorer le tutoriel [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
+    - Exécuter ```docker run -dp 80:80 docker/getting-started```
     - Ouvrir [http://localhost](http://localhost) dans votre navigateur et suivre les instructions.
 
-- Refaire par vous-même l'exercice [Hadoop de la semaine dernière](../hadoop/hadoop_wordcount/python_mapreduce.md).
+- Explorer le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
-- [Tutoriel Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/) (alternative : [Mini tutoriel Kubernetes](./mini_tutoriel_k8s.md))
+- [ ] Déployez avec Docker une ou plusieurs instance(s) de [Jupyter](https://docs.jupyter.org/en/latest/) Notebook et/ou JupyterLab. :warning: À vous de choisir la "bonne" approche (en fonction notamment des capacités de votre ordinateur) !
+    - [ ] En mode utilisateur unique
+    - [ ] En mode "Hub" (multi-utilisateurs)
 
-    Un _cluster_ K8s est fourni par Docker Desktop (en version single-node). Inutile donc d'installer ici _Minikube_. Par contre, il est indispensable d'[installer et configurer kubectl](https://docs.docker.com/desktop/kubernetes/).
-
-:warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
-- [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
-
-
-## Travail personnel pour la semaine prochaine
-- [x] (**optionnel**) Compléter le [Tutoriel Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/) (alternative : [Mini tutoriel Kubernetes](./mini_tutoriel_k8s.md))
+- [x] (**optionnel**) Explorer le [Tutoriel Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/) (alternative : [Mini tutoriel Kubernetes](./mini_tutoriel_k8s.md))
 
     Un _cluster_ K8s est fourni par Docker Desktop (en version single-node). Inutile donc d'installer ici _Minikube_. Par contre, il est indispensable d'[installer et configurer kubectl](https://docs.docker.com/desktop/kubernetes/).
 
@@ -46,6 +37,15 @@
     - [kubernetes cleanup of pods,service,deployment etc](https://stackoverflow.com/questions/57014430/kubernetes-cleanup-of-pods-service-deployment-etc)
     - Vous pouvez également appliquer un "_reset_" complet :
 ![reset_k8s.png](reset_k8s.png)
+
+:warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
+- [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
+- Autre option : utiliser l'interface graphique
+
+## Travail personnel pour la semaine prochaine
+
+- [ ] Il est recommandé de compléter les tutoriels, notamment si ce sont là des technologies nouvelles pour vous.
+- [ ] Complétez l'exercice visant à déployez avec Docker une ou plusieurs instance(s) de [Jupyter](https://docs.jupyter.org/en/latest/) Notebook et/ou JupyterLab. Nous regarderons ensemble la semaine prochaine les différents choix qui s'offrent à nous.
 
 <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
 
