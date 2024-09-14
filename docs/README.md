@@ -117,7 +117,7 @@ Votre avis sur la question :question:
 
 - Par courriel : magnin [dot] laurent_yves [at] uqam [dot] ca (Inclure [MLG7320] dans le titre du message)
 
-- Par clavardage (Teams "GROUPECOURS-20243-MGL7320-040" ?)
+- Par clavardage (Teams "`[GROUPECOURS-20243-MGL7320-040](https://teams.microsoft.com/l/channel/19%3ASPCjtt6D5R8H3VaGIpTMU-BNri2Ku0w0fM2lmR95GtM1%40thread.tacv2/General?groupId=8ef97396-15be-4f08-9a05-58a0caca02b0)`")
 
 - _Si nécessaire_, planifier une réunion en personne ou en ligne.
 
