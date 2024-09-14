@@ -34,8 +34,6 @@ L'objectif du cours est de fournir aux étudiants gradués les connaissances tec
 - Travaille présentement pour une compagnie d'assurance
   - Architecte IA
   - Scientifique de données
-- Explore depuis juillet 2024 le monde des <br>
-![dogecoin](images/dogecoin.png)
 
 ## Contenu du cours
 
@@ -59,18 +57,6 @@ Non axé sur:
 <p style="text-align: center;"><b>Balance entre théorie :bulb: (pdf) & aspects pratiques :nut_and_bolt: </b></p>
 
 ### Calendrier
-
-Ce cours demande une refonte importante :
-- Plus représentatif de la réalité industrielle
-  - cours : 1/2 théorie, 1/2 pratique
-- Plus dédié à la mise en place des modèles (et non à leur conception)
-- Le domaine ne cesse d'évoluer, de plus en plus rapidement<sup>*</sup>
-  - Ajout de l'IA générative (en + de l'apprentissage machine)
-  - Impact de Copilot & ChatGPT dans le domaine de la programmation
-
-<sup>*</sup> Le monde académique a probablement encore plus de mal à suivre que l'industrie...
-
-_De ce fait, le calendrier ci-dessous est susceptible d’évoluer._
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
