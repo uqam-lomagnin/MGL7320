@@ -60,21 +60,21 @@ Non axé sur:
 
 | Semaine | Sujet | Date |
 | ------- | ----- | ---- |
-| 1		    | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/) | 3 septembre |
-| 2	      |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/) | 10 septembre |
-| 3		    | [Docker & autres outils] | 17 septembre |
+| 1       | [Introduction et aperçu de l’intelligence artificielle (IA)](./lectures/01_introduction/) | 3 septembre |
+| 2       |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/) | 10 septembre |
+| 3       | [Docker & autres outils] | 17 septembre |
 | 4       | [Architecture des systèmes d'intelligence artificielle] | 24 septembre |
-| 5	      |	[Validation et gestion des données] | 1 octobre |
-| 6	      | [Sélection des modèles] | 8 octobre |
-| 7     	| :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
+| 5       |	[Validation et gestion des données] | 1 octobre |
+| 6       | [Sélection des modèles] | 8 octobre |
+| 7       | :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
 | 8       | [IA générative] | 22 octobre |
-| 9     	| [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
+| 9       | [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
 | 10      | :couple: Présentation (non évaluée) du plan du projet en équipe | 5 novembre |
 | 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
-| 13		  | :new: Atelier Databricks (sous réserve) | 26 novembre |
+| 13      | :new: Atelier Databricks (sous réserve) | 26 novembre |
 | 14      |	:walking: Examen | 3 décembre |
-| 15		  | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
+| 15      | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
 
 ## Évaluation
 
