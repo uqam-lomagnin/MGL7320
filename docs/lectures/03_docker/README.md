@@ -19,12 +19,12 @@
     * https://www.cyberciti.biz/faq/bash-infinite-loop/
     * https://www.rapidtables.com/code/linux/ls.html
  
-
-- Explorez le tutoriel [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
+<br>
+- [ ] Explorez le tutoriel [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
     - Exécuter ```docker run -dp 80:80 docker/getting-started```
     - Ouvrir [http://localhost](http://localhost) dans votre navigateur et suivre les instructions.
 
-- Explorez le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
+- [ ] Explorez le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
     :warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
     - [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
@@ -39,7 +39,7 @@
     - Vous pouvez également appliquer un "_reset_" complet :
 ![reset_k8s.png](reset_k8s.png)
 
-- Pour ceux qui ne sont pas familier avec Github (& Github Classroom) : [The Basics of GitHub](https://classroom.github.com/a/rxrnLylo)
+- [ ] Pour ceux qui ne sont pas familier avec Github (& Github Classroom) : [The Basics of GitHub](https://classroom.github.com/a/rxrnLylo)
 
 ## Travail personnel pour les prochaines semaines
 
