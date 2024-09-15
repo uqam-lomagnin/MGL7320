@@ -26,10 +26,6 @@
 
 - Explorez le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
-- Déployez _avec Docker_ une ou plusieurs instance(s) de [Jupyter](https://docs.jupyter.org/en/latest/) Notebook et/ou JupyterLab. :warning: À vous de choisir la "bonne" approche (en fonction notamment des capacités de votre ordinateur) !
-    - [ ] En mode utilisateur unique
-    - [ ] En mode "Hub" (multi-utilisateurs)
-
     :warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
     - [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
     - Autre option : utiliser l'interface graphique
@@ -44,10 +40,6 @@
 ![reset_k8s.png](reset_k8s.png)
 
 - Pour ceux qui ne sont pas familier avec Github (& Github Classroom) : [The Basics of GitHub](https://classroom.github.com/a/rxrnLylo)
-
-## Travail personnel pour la semaine prochaine
-
-- [ ] Complétez l'exercice visant à déployez avec Docker une ou plusieurs instance(s) de [Jupyter](https://docs.jupyter.org/en/latest/) Notebook et/ou JupyterLab. Nous regarderons ensemble la semaine prochaine les différents choix qui s'offrent à nous.
 
 ## Travail personnel pour les prochaines semaines
 
