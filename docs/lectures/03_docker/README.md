@@ -18,6 +18,7 @@
     * https://docs.docker.com/engine/reference/commandline/exec/
     * https://www.cyberciti.biz/faq/bash-infinite-loop/
     * https://www.rapidtables.com/code/linux/ls.html
+    * https://docs.docker.com/build/building/best-practices/
  
 <br>
 - [ ] Explorez le tutoriel [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
