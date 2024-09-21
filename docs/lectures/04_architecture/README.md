@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/
+- Quizz - https://ahaslides.com/4OVSM
 - Questions / réponses concernant le cours de la semaine dernière
 
 ## Exigences et spécifications
@@ -13,6 +13,7 @@
 - :book: [Exigences et spécifications des systèmes d'IA](./04_requirements.pdf)
 
 - :pencil: Exercice commun en classe : Justification, exigences et spécifications d'un système à base d'IA permettant de prévoir des pics de consommation électrique ?
+    - Quelles questions poser ?
 
 ## Architecture
 
