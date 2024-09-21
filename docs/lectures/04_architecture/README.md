@@ -12,8 +12,13 @@
 
 - :book: [Exigences et spécifications des systèmes d'IA](./04_requirements.pdf)
 
-- :pencil: Exercice commun en classe : Justification, exigences et spécifications d'un système à base d'IA permettant de prévoir des pics de consommation électrique ?
-    - Quelles questions poser ?
+- :pencil: Exercice commun en classe
+
+> Dans la ville de Voltaville, les pics de consommation électrique sont devenus fréquents en raison de l’urbanisation rapide et des événements météorologiques extrêmes. Les autorités locales souhaitent mettre en place un système d’IA pour prévoir les pics de demande et ajuster l’approvisionnement en énergie, notamment en optimisant l’utilisation des énergies renouvelables comme le solaire et l’éolien.
+
+    - Justification ?
+    - Exigences ?
+    - Spécifications ?
 
 ## Architecture
 
