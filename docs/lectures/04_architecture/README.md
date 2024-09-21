@@ -12,14 +12,14 @@
 
 - :book: [Exigences et spécifications des systèmes d'IA](./04_requirements.pdf)
 
-- :tool: Exercice commun en classe : Justification, exigences et spécifications d'un système à base d'IA permettant de prévoir des pics de consommation électrique ?
+- :pencil: Exercice commun en classe : Justification, exigences et spécifications d'un système à base d'IA permettant de prévoir des pics de consommation électrique ?
 
 ## Architecture
 
 - :book: [Architecture des systèmes d'IA](./04_architecture.pdf)
 
 
-- :tool: Exercice commun en classe : Architecture(s) à envisager pour ce système à base d'IA permettant de prévoir des pics de consommation électrique ?
+- :pencil: Exercice commun en classe : Architecture(s) à envisager pour ce système à base d'IA permettant de prévoir des pics de consommation électrique ?
 
 ## Travail personnel pour les prochaines semaines
 
