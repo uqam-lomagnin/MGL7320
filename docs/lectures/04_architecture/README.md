@@ -8,15 +8,18 @@
 - Quizz - https://ahaslides.com/
 - Questions / réponses concernant le cours de la semaine dernière
 
-## Théorie
+## Exigences et spécifications
+
 - :book: [Exigences et spécifications des systèmes d'IA](./04_requirements.pdf)
+
+- :tools: Exercice commun en classe : Justification, exigences et spécifications d'un système à base d'IA permettant de prévoir des pics de consommation électrique ?
+
+## Architecture
+
 - :book: [Architecture des systèmes d'IA](./04_architecture.pdf)
 
-## Pratique
 
-Exercice commun en classe :
-- [ ] Exigences et spécifications d'un système à base d'IA permettant de prévoir la consommation électrique ?
-- [ ] Architecture(s) à envisager ?
+- :tools: Exercice commun en classe : Architecture(s) à envisager pour ce système à base d'IA permettant de prévoir des pics de consommation électrique ?
 
 ## Travail personnel pour les prochaines semaines
 
