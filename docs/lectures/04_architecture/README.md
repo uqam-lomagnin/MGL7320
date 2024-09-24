@@ -24,7 +24,6 @@
 
 - :book: [Architecture des systèmes d'IA](./04_architecture.pdf)
 
-
 - :pencil: Exercice commun en classe : Architecture(s) à envisager pour ce système à base d'IA permettant de prévoir des pics de consommation électrique ?
 
 ## Travail personnel pour les prochaines semaines

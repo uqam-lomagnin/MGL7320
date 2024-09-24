@@ -24,6 +24,8 @@
 - [ ] Explorez le tutoriel [Tutoriel Docker 101](https://www.docker.com/101-tutorial/)
     - Exécuter ```docker run -dp 80:80 docker/getting-started```
     - Ouvrir [http://localhost](http://localhost) dans votre navigateur et suivre les instructions.
+<br>
+:bulb: En cas de soucis sur un Mac Apple Silicon (M1, M2, etc.), vous pouvez aller voir du côté de [DOCKER_DEFAULT_PLATFORM](https://forums.docker.com/t/docker-default-platform-should-be-more-obvious-to-apple-silicon-users-everyone/120805/2) forum.
 
 - [ ] Explorez le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
