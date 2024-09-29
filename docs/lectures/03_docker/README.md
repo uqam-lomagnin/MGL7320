@@ -13,6 +13,12 @@
 
 ## Pratique
 
+### Lignes de commande
+
+Dans les exercices qui viennent (ainsi que dans votre future vie professionnelle !), vous n'aurez pas le choix que d'utiliser des lignes de commande. Voici notamment un tutoriel pour vous y former : [Introduction to the command-line interface](https://tutorial.djangogirls.org/en/intro_to_command_line/).
+
+### Docker
+
 - Références utiles
     * https://docs.docker.com/engine/reference/commandline/history/
     * https://docs.docker.com/engine/reference/commandline/exec/
@@ -27,11 +33,12 @@
 <br>
 :bulb: En cas de soucis sur un Mac Apple Silicon (M1, M2, etc.), vous pouvez aller voir du côté de [DOCKER_DEFAULT_PLATFORM](https://forums.docker.com/t/docker-default-platform-should-be-more-obvious-to-apple-silicon-users-everyone/120805/2) forum.
 
-- [ ] Explorez le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/)
 
-    :warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
-    - [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
-    - Autre option : utiliser l'interface graphique
+:warning: Ne pas oublier en fin de session de "nettoyer" & de quitter Docker !
+- [How to Do a Clean Restart of a Docker Instance](https://docs.tibco.com/pub/mash-local/4.3.0/doc/html/docker/GUID-BD850566-5B79-4915-987E-430FC38DAAE4.html)
+- Autre option : utiliser l'interface graphique
+
+- [ ] Jetez un oeil sur le tutoriel [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/). :warning: Pour compléter ce tutorial, il vous faut disposer de plusieurs machines (uniquement Linux ?).
 
 - [ ] Explorez le [Tutoriel Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/) (alternative : [Mini tutoriel Kubernetes](./mini_tutoriel_k8s.md))
 
