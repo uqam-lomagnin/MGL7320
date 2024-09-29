@@ -64,7 +64,7 @@ Non axé sur:
 | 2       |	[Apprentissage Automatique (ML)](./lectures/02_machine_learning/) | 10 septembre |
 | 3       | [Docker & autres outils](./lectures/03_docker/) | 17 septembre |
 | 4       | [Exigences et spécifications + Architecture](./lectures/04_architecture/) | 24 septembre |
-| 5       |	[Validation et gestion des données] | 1 octobre |
+| 5       |	[Ingénierie des caractéristiques](./lectures/05_features_ing) | 1 octobre |
 | 6       | [Sélection des modèles] | 8 octobre |
 | 7       | :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
 | 8       | [IA générative] | 22 octobre |
