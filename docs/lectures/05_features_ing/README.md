@@ -5,9 +5,9 @@
 
 ## Prelude
 
-- Quizz architecture - https://ahaslides.com/MSOPC
+- Quizz architecture - [https://ahaslides.com/MSOPC](https://ahaslides.com/MSOPC)
 
-## Préparation présentation personnelle
+## Préparation présentation personnelle du 15 octobre
 
 - [Rencontre Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzkzYjY2NTItYWMyNS00NGZmLWE3NDUtMmMyYmE1NzVhNWNm%40thread.v2/0?context=%7b%22Tid%22%3a%2212cb4e1a-42da-491c-90e1-7a7a9753506f%22%2c%22Oid%22%3a%22de64bd01-d8ce-40e7-8f6c-2b5de9f33661%22%7d)
 
@@ -24,7 +24,7 @@ Voici les principales options de transformation possibles :
 
 ### Pandas
 
-Pandas s'exécutant en local, cela ne pose pas de problématique spécifiques d'ingénierie logicielle. Nous ne développerons donc pas la présentation de cette librairie dans ce cours.
+_Pandas s'exécutant en local, cela ne pose pas de problématique spécifiques d'ingénierie logicielle. Nous ne développerons donc pas la présentation de cette librairie dans ce cours._
 
 Pour la partie pratique, voir le notebook partagé dans le cours [02 - Apprentissage Machine (Machine Learning)](docs/lectures/02_machine_learning).
 
