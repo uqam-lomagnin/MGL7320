@@ -16,11 +16,13 @@
 - [ ] [GitHub Classroom - Projet en équipe](https://classroom.github.com/a/3yOWEyQK)
 
 ## Lectures du jour
-- :bulb: [Sélection des modèles](./06_model_selection_slides.pdf)
+- :bulb: [Sélection des modèles](./06_model_selection.pdf)
 
 ## Pratique - AutoML
 
-- :tool: Utilisez une librairie d'AutoML (FLAML suggérée) pour évaluer en parallèle plusieurs modèles au sein du notebook [mgl7811-germancreditreport.ipynb](../02_machine_learning/solution/mgl7811-germancreditreport.ipynb).
+- :tool: Utilisez une librairie d'AutoML (FLAML suggérée) pour évaluer en parallèle plusieurs modèles au sein du notebook [mgl7811-germancreditreport.ipynb](../02_machine_learning/solution/mgl7811-germancreditreport.ipynb), et ainsi choisir le plus performant (lui-même optimisé au travers de ses hyper-paramètres).
+
+![flaml_accuracy.png](flaml_accuracy.png)
 
 - Quelle amélioration en terme de précision obtenez-vous ?
 
