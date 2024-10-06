@@ -17,6 +17,6 @@ Ce travail est dû pour le **15 octobre 2024** :
 - Pour 10 % de la note totale, l'ensemble des éléments remis (code, documentation) devront être déposés au sein du dépôt Github Classroom suivant : [https://classroom.github.com/a/CNclaupz](https://classroom.github.com/a/CNclaupz), avant 17 h 30 ! ( :bulb: Faites de remises régulières pour ne pas risquer de tout perdre). 
 ![alt text](../images/dealine_pp.png)
 
-- Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours régulier (a priori 5 minutes chacun - durée qui pourra évoluer en fonction du nombre de projets qui seront finalement présentés -). :bulb: N'oubliez pas de montrer vos composants Docker en train de s'exécuter !
+- Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours régulier (5 minutes chacun + Q/R). :bulb: N'oubliez pas de montrer vos composants Docker en train de s'exécuter !
 
     Pour vous éviter de perdre du temps à vous installer au pupitre, un partage par _Teams_ est à envisager.
