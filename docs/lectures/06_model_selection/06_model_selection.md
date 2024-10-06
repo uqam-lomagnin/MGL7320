@@ -18,6 +18,15 @@
 ## Lectures du jour
 - :bulb: [Sélection des modèles](./06_model_selection_slides.pdf)
 
+## Pratique - AutoML
+
+- :tool: Utilisez une librairie d'AutoML (FLAML suggérée) pour évaluer en parallèle plusieurs modèles au sein du notebook [mgl7811-germancreditreport.ipynb](../02_machine_learning/solution/mgl7811-germancreditreport.ipynb).
+
+- Quelle amélioration en terme de précision obtenez-vous ?
+
+:bulb: Pour aller plus loin, pourquoi ne pas combiner plusieurs modèles ensemble ?
+-> [Stacked Ensembles](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/stacked-ensembles.html), autrement appelé "_Super Learner_".
+
 ## Travail personnel pour la semaine prochaine
 
 - [ ] Travailler _en groupe_ au spécifications d'évolution du projet ML
