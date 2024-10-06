@@ -27,7 +27,7 @@
 
 ## Prochaine séance
 
-- [Projet personnel](../projet_personnel.md) - Remise **avant 17 h 30** + Présentation en classe (5 minutes + Q/A)
+- [Projet personnel](../projet_personnel.md) - Remise **avant 17 h 30** + Présentation en classe (5 minutes + Q/R)
 
 
 <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
