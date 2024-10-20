@@ -1,1 +1,0 @@
-- [ ] Récupérer _et parcourir_ le livre [The Big Book of Generative AI](https://www.databricks.com/resources/ebook/big-book-generative-ai)  (copie gratuite)

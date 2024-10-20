@@ -67,10 +67,10 @@ Non axé sur:
 | 5       |	[Ingénierie des caractéristiques](./lectures/05_features_ing) | 1 octobre |
 | 6       | [Sélection des modèles](./lectures/06_model_selection) | 8 octobre |
 | 7       | :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
-| 8       | [IA générative] | 22 octobre |
-| 9       | [Systèmes multiagents] & [Systèmes experts]| 29 octobre |
-| 10      | :couple: Présentation (non évaluée) du plan du projet en équipe | 5 novembre |
-| 11      | [Infrastructure(s), Outils et Plateformes] | 12 novembre |
+| 8       | [IA générative](./lectures/07_gen_ai) | 22 octobre |
+| 9       | [Systèmes experts & Systèmes multiagents]| 29 octobre |
+| 10      | [Infrastructure(s), Outils et Plateformes]  | 5 novembre |
+| 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
 | 13      | :new: Atelier Databricks (sous réserve) | 26 novembre |
 | 14      |	:walking: Examen | 3 décembre |
@@ -86,7 +86,7 @@ L'évaluation du cours est composé ainsi :
 | :couple: Projet en équipe |	30 %<sup>*</sup> | 10 % |
 | :walking: Examen (3h, papier) | 40 % | |
 
-<sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra être appliquée.
+<sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra lui être appliquée.
 
 :bulb: À noter l'usage de [GitHub Classroom](https://classroom.github.com/)
 
