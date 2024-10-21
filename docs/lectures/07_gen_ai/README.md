@@ -29,18 +29,18 @@ model.invoke(messages)
 ```
 
 - Pour cela, 
-    - soit utiliser [OpenAI(https://python.langchain.com/docs/tutorials/llm_chain/)] ou équivalents (options _a priori_ payantes), 
-    - soit [ChatOllama](https://python.langchain.com/docs/integrations/chat/ollama/) ou [LM Studio](https://lmstudio.ai)- options gratuites mais demandant un ordinateur suffisamment puissant - ;
-- Choisissez au départ un [modèle](https://ollama.com/library) suffisamment petit, tel que `mixtral:8x7b`. Celui-ci nécessitera bien moins de ressources, tout en étant téléchargé bien plus rapidement ; 
-- LangSmith est optionnel. :bulb: Il peut être remplacé par [Phoenix](https://phoenix.arize.com) ;
+    - soit utiliser à l'API [OpenAI](https://python.langchain.com/docs/tutorials/llm_chain/) ou équivalents (options _a priori_ payantes), 
+    - soit en local avec [ChatOllama](https://python.langchain.com/docs/integrations/chat/ollama/) ou [LM Studio](https://lmstudio.ai) - options gratuites mais demandant un ordinateur suffisamment puissant - ;
+- Pour l'option locale, choisissez au départ un [modèle](https://ollama.com/library) suffisamment petit, tel que `mixtral:8x7b`. Celui-ci nécessitera bien moins de ressources, tout en étant téléchargé bien plus rapidement ; 
+- LangSmith est optionnel. :bulb: Il peut être notamment remplacé par [Phoenix](https://phoenix.arize.com) ;
 - Si vous n'avez pas la possibilité d'exécuter par vous-même ce code (ordinateur pas assez puissant, etc.), regroupez-vous avec un autre étudiant qui en est capable.
 
 ### Utiliser LangChain pour analyser des images
 
 Le but de l'exercice est d'utiliser un GML pour décrire l'image suivante : 
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg
+[https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-the-nature-boardwalk.jpg/2560px-Gfp-wisconsin-madison-the-nature-boardwalk.jpg)
 
-### Références 
+#### Références 
 - [How to use multimodal prompts](https://python.langchain.com/docs/how_to/multimodal_prompts/)
 - [Multi-modal](https://python.langchain.com/docs/integrations/chat/ollama/#multi-modal) ChatOllama
 
@@ -48,7 +48,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gfp-wisconsin-madison-
 
 Le but de l'exercice est de pouvoir interroger les informations fournioes par le blog [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), en particulier afin de pouvoir répondre à la question suivante : "What is Task Decomposition?".
 
-### Références
+#### Références
 - [Build a Retrieval Augmented Generation (RAG) App](https://python.langchain.com/docs/tutorials/rag/)
 - [Chroma DB](https://github.com/chroma-core/chroma)
 - [OllamaEmbeddings]https://python.langchain.com/docs/integrations/text_embedding/ollama/
