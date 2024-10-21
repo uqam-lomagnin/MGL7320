@@ -1,4 +1,4 @@
-<img style="float: right;" src="../../images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
+<img style="float: right;" src="../images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
 
 ## MGL7320 - Projet en équipe - Mise à niveau Smart-Meter
 
@@ -8,7 +8,7 @@ Le but de votre projet en équipe est de mettre à niveau l'application [Smart-M
 
 ## Points importants
 - Les équipes doivent comporter 3 ou 4 membres ;
-- Cette application est disponible sous [licence MIT](https://github.com/Logimethods/smart-meter/blob/master/LICENSE), et donc est reproductible et modifiable pour autant que les conditions de sa licence soient respectées ;
+- Cette application étant disponible sous [licence MIT](https://github.com/Logimethods/smart-meter/blob/master/LICENSE), elle est reproductible et modifiable pour autant que les conditions de sa licence soient respectées ;
 - Une simple mise à niveau des librairies n'est pas envisageable. Partir donc d'une feuille blanche en terme de technologies à employer ;
 - C'est à vous de décider des spécifications à conserver, de l'architecture choisie, etc. ;
 - L'utilisation de Copilot est encouragée, notamment pour les éventuels traductions d'un langage de programmation à un autre ;
@@ -35,6 +35,11 @@ Ce travail est dû pour le **10 décembre 2024** :
 
 - Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours du 10 décembre (la durée allouée dépendra du nombre d'équipes).<br>
 
-Cette présentation devra se faire en groupe, au pupitre (prévoir un ordinateur portable ayant un connecteur HDMI).
+:bulb: Ces 2 présentations devront se faire en groupe, au pupitre (prévoir par équipe un ordinateur portable ayant un connecteur HDMI).
+
+<img style="float: right;" align="right" src="../images/uqam.png" alt="uqàm" width="100"/>
+
+### Copyright (c)Laurent Magnin / UQÀM 2024
+
 
 
