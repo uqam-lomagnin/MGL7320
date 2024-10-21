@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - [https://ahaslides.com/](https://ahaslides.com/)
+- Quizz - [https://ahaslides.com/0W959](https://ahaslides.com/0W959)
 
 ## Lecture du jour
 
