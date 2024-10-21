@@ -1,4 +1,6 @@
-# Projet en équipe - Mise à niveau Smart-Meter
+<img style="float: right;" src="../../images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
+
+## MGL7320 - Projet en équipe - Mise à niveau Smart-Meter
 
 ## Description
 
@@ -19,17 +21,17 @@ Le but de votre projet en équipe est de mettre à niveau l'application [Smart-M
 
 Le 12 novembre, chaque équipe devra présenter le plan de développement prévu. Cette présentation, bien que n'intervenant pas dans la note, est importante pour garantir que le projet parte sur la bonne voie.
 
-Ce sera également l'occasion de me poser des questions sur l'application.
+Ce sera également l'occasion de poser des questions sur l'application.
 
 ## Remise
 
 Ce travail est dû pour le **10 décembre 2024** :
 
-- Pour 30 % de la note totale, l'ensemble des éléments remis (code, documentation) devront être déposés au sein du dépôt Github Classroom suivant : [https://classroom.github.com/a/CNclaupz](https://classroom.github.com/a/CNclaupz), avant 17 h 30 ! ( :bulb: Faites de remises régulières pour ne pas risquer de tout perdre). 
+- Pour 30 % de la note totale, l'ensemble des éléments remis (code, documentation) devront être déposés au sein du dépôt Github Classroom suivant : [https://classroom.github.com/a/-_OVYpcQ](https://classroom.github.com/a/-_OVYpcQ), avant 17 h 30 ! ( :bulb: Faites de remises régulières pour ne pas risquer de tout perdre). 
 
-![alt text](../images/dealine_pp.png)
+```Due Dec 10, 2024, 22:30 UTC```
 
-:warning: En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra lui être appliquée
+:warning: En fonction de la non ou faible participation (visible à travers l'historique Git) d'un membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra lui être appliquée
 
 - Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours du 10 décembre (la durée allouée dépendra du nombre d'équipes).<br>
 
