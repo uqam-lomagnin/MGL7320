@@ -72,7 +72,7 @@ Non axé sur:
 | 10      | [Infrastructure(s), Outils et Plateformes]  | 5 novembre |
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
-| 13      | :new: Atelier Databricks (sous réserve) | 26 novembre |
+| 13      | :question: Atelier Databricks (sous réserve) | 26 novembre |
 | 14      |	:walking: Examen | 3 décembre |
 | 15      | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
 
