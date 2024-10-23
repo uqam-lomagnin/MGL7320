@@ -46,12 +46,16 @@ Le but de l'exercice est d'utiliser un GML pour décrire l'image suivante :
 
 ### Développer un RAG à base de LangChain
 
-Le but de l'exercice est de pouvoir interroger les informations fournioes par le blog [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), en particulier afin de pouvoir répondre à la question suivante : "What is Task Decomposition?".
+Le but de l'exercice est de pouvoir interroger les informations fournies par le blog [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/), en particulier afin de pouvoir répondre à la question suivante : "What is Task Decomposition?".
+
+### Aide
+
+Si vous êtes bloqués, voici un notebook fonctionnel basé sur Ollama : [07_gen_ai/07_gen_ai.ipynb](./07_gen_ai/07_gen_ai.ipynb)
 
 #### Références
 - [Build a Retrieval Augmented Generation (RAG) App](https://python.langchain.com/docs/tutorials/rag/)
 - [Chroma DB](https://github.com/chroma-core/chroma)
-- [OllamaEmbeddings]https://python.langchain.com/docs/integrations/text_embedding/ollama/
+- [OllamaEmbeddings](https://python.langchain.com/docs/integrations/text_embedding/ollama/)
 
 :bulb: La phase d'encodage du texte de référence peut prendre plusieurs minutes.
 
