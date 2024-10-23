@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - [https://ahaslides.com/0W959](https://ahaslides.com/0W959)
+- Quizz sur la sélection des modèles - [https://ahaslides.com/0W959](https://ahaslides.com/0W959)
 
 ## Lecture du jour
 
@@ -29,9 +29,9 @@ model.invoke(messages)
 ```
 
 - Pour cela, 
-    - soit utiliser à l'API [OpenAI](https://python.langchain.com/docs/tutorials/llm_chain/) ou équivalents (options _a priori_ payantes), 
+    - soit utiliser l'API [OpenAI](https://python.langchain.com/docs/tutorials/llm_chain/) ou équivalents (options _a priori_ payantes), 
     - soit en local avec [ChatOllama](https://python.langchain.com/docs/integrations/chat/ollama/) ou [LM Studio](https://lmstudio.ai) - options gratuites mais demandant un ordinateur suffisamment puissant - ;
-- Pour l'option locale, choisissez au départ un [modèle](https://ollama.com/library) suffisamment petit, tel que `mixtral:8x7b`. Celui-ci nécessitera bien moins de ressources, tout en étant téléchargé bien plus rapidement ; 
+- Pour l'option locale, choisissez au départ un [modèle](https://ollama.com/library) suffisamment petit, tel que `Phi3` ou `mixtral:8x7b`. Celui-ci nécessitera bien moins de ressources, tout en étant téléchargé bien plus rapidement ; 
 - LangSmith est optionnel. :bulb: Il peut être notamment remplacé par [Phoenix](https://phoenix.arize.com) ;
 - Si vous n'avez pas la possibilité d'exécuter par vous-même ce code (ordinateur pas assez puissant, etc.), regroupez-vous avec un autre étudiant qui en est capable.
 
@@ -50,7 +50,7 @@ Le but de l'exercice est de pouvoir interroger les informations fournies par le 
 
 ### Aide
 
-Si vous êtes bloqués, voici un notebook fonctionnel basé sur Ollama : [07_gen_ai/07_gen_ai.ipynb](./07_gen_ai/07_gen_ai.ipynb)
+Si vous êtes bloqués, voici un notebook fonctionnel basé sur Ollama : [07_gen_ai.ipynb](./07_gen_ai.ipynb)
 
 #### Références
 - [Build a Retrieval Augmented Generation (RAG) App](https://python.langchain.com/docs/tutorials/rag/)
