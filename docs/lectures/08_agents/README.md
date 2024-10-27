@@ -32,14 +32,15 @@ Voici LA question auquel le chatbot devra répondre, en faisant appel à des inf
 
 - [ ] La première implémentation doit se faire à partir du framework [LangGraph](https://www.langchain.com/langgraph)
 
-    - Voir le tutoriel [PLangGraph Quick Start - Chatbot](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+    - Voir le tutoriel [LangGraph Quick Start - Chatbot](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
 
 ![](./images/chatbot.jpeg)
 
-    - :bulb: Vous pouvez remplacer ChatAnthropic par Chat [Ollama](https://ollama.com) (fonctionne en utilisant le modèle llama3.2:3b)
+[!TIP] Vous pouvez remplacer ChatAnthropic par Chat [Ollama](https://ollama.com) (fonctionne en utilisant le modèle llama3.2:3b)
 
-    - :warning: Vous aurez besoin d'un jeton (_token_) [Tavily](https://tavily.com), lequel est gratuit pour un usage modéré.
-        - :warning: Ne **jamais* sauvegarder vos mots de passe directement dans le code. Pour les conserver sans avoir à les partager (:bomb:, ajoutez les fichiers `.env`dans la liste `.gitignore` !), vous pouvez utiliser des outils tels que [Dotenv](https://pypi.org/project/python-dotenv/).
+[!IMPORTANT] Vous aurez besoin d'un jeton (_token_) [Tavily](https://tavily.com), lequel est gratuit pour un usage modéré.
+
+[!CAUTION] Ne **jamais* sauvegarder vos mots de passe directement dans le code. Pour les conserver sans avoir à les partager (:bomb:, ajoutez les fichiers `.env`dans la liste `.gitignore` !), vous pouvez utiliser des outils tels que [Dotenv](https://pypi.org/project/python-dotenv/).
 
 - [ ] Construire un guide culinaire interactif en faisant appel à [CrewAI](https://docs.crewai.com/introduction)
 
@@ -56,9 +57,10 @@ Voici LA question auquel le chatbot devra répondre, en faisant appel à des inf
 
 - Explorer les [tutoriels LangGraph](https://langchain-ai.github.io/langgraph/tutorials/)
 
+- Pour aller plus loin : [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
 
 <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
 
 ### Copyright (c)Laurent Magnin / UQÀM 2023-2024
 
-https://lilianweng.github.io/posts/2023-06-23-agent/
