@@ -20,7 +20,30 @@
 
 ### Systèmes multiagents
 
+#### Théorie
+
 - :book: [From LLMs to Multi-Agents Systems - Agents & GenAI](./08_genai_agents.pdf)
+
+#### Pratique
+
+Le but de cet exercice est de créez un Chatbot à base d'agents et d'outils.
+
+Voici LA question auquel le chatbot devra répondre, en faisant appel à des informations disponibles en ligne : _"What's the best restaurant in Montreal?"_
+
+- [ ] La première implémentation doit se faire à partir du framework [LangGraph](https://www.langchain.com/langgraph)
+
+    - Voir le tutoriel [PLangGraph Quick Start - Chatbot](https://langchain-ai.github.io/langgraph/tutorials/introduction/)
+
+![](./images/chatbot.jpeg)
+
+    - :bulb: Vous pouvez remplacer ChatAnthropic par Chat [Ollama](https://ollama.com) (fonctionne en utilisant le modèle llama3.2:3b)
+
+    - :warning: Vous aurez besoin d'un jeton (_token_) [Tavily](https://tavily.com), lequel est gratuit pour un usage modéré.
+        - :warning: Ne **jamais* sauvegarder vos mots de passe directement dans le code. Pour les conserver sans avoir à les partager (:bomb:, ajoutez les fichiers `.env`dans la liste `.gitignore` !), vous pouvez utiliser des outils tels que [Dotenv](https://pypi.org/project/python-dotenv/).
+
+- [ ] Construire un guide culinaire interactif en faisant appel à [CrewAI](https://docs.crewai.com/introduction)
+
+![](./images/crewAI-mindmap.png)
 
 ## Travail personnel pour les prochaines semaines
 
@@ -28,6 +51,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sal78ACtGTc?si=PUvqI97z-gYYnbwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Pour aller plus loin (par le même auteur) : _[Agentic Design Patterns](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/)_
+
+- Completez les exercices du jour.
+
+- Explorer les [tutoriels LangGraph](https://langchain-ai.github.io/langgraph/tutorials/)
 
 
 <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
