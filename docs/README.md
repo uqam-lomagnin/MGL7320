@@ -68,7 +68,7 @@ Non axé sur:
 | 6       | [Sélection des modèles](./lectures/06_model_selection) | 8 octobre |
 | 7       | :walking: Remise projets personnels (avec démos faites par les étudiants) | 15 octobre |
 | 8       | [IA générative](./lectures/07_gen_ai) | 22 octobre |
-| 9       | [Systèmes experts & Systèmes multiagents]| 29 octobre |
+| 9       | [Systèmes experts, Agents IA & Systèmes multiagents](./lectures/08_agents) | 29 octobre |
 | 10      | [Infrastructure(s), Outils et Plateformes]  | 5 novembre |
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
