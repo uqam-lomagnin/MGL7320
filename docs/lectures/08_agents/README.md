@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/
+- Quizz sur l'IA générative - [https://ahaslides.com/MR60S](https://ahaslides.com/MR60S)
 
 - Est-ce que toutes les [MGL7320 - équipes](https://docs.google.com/spreadsheets/d/1svBmf4keRuKFzRf8pBrOfwrKeTQkWT3_606SjKuYx6s/edit?gid=0#gid=0) sont bien constituées ?
 
@@ -29,6 +29,8 @@
 #### Démonstration (_Code-Executors_ avec Autogen)
 
 Voir [Code Executors](https://microsoft.github.io/autogen/0.2/docs/tutorial/code-executors/).
+
+Utilise le fichier [docker_coder.py](./docker_coder.py)
 
 Dans un premier terminal :
 ```shell
