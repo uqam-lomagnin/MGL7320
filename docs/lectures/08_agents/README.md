@@ -26,6 +26,64 @@
 
 #### Pratique
 
+#### Démonstration (_Code-Executors_ avec Autogen)
+
+Voir [Code Executors](https://microsoft.github.io/autogen/0.2/docs/tutorial/code-executors/).
+
+Dans un premier terminal :
+```shell
+ollama pull codellama:34b
+ollama serve
+```
+
+Dans un second terminal:
+```shell
+conda create -n autogen python=3.11
+conda activate autogen
+pip install pyautogen flaml[automl]
+rm -r .cache/* ; clear ; python docker_coder.py
+```
+
+Et voici une (possible) exécution :
+```shell
+code_executor_agent_docker (to code_writer_agent):
+
+Write Python code to calculate the 14th Fibonacci number.
+
+--------------------------------------------------------------------------------
+
+>>>>>>>> USING AUTO REPLY...
+code_writer_agent (to code_executor_agent_docker):
+
+```
+```python
+# filename: fibonacci.py
+def fibonacci(n):
+    if n <= 1:
+        return n
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print(f"The 14th Fibonacci number is {fibonacci(14)}")
+```
+```shell
+
+--------------------------------------------------------------------------------
+Replying as code_executor_agent_docker. Provide feedback to code_writer_agent. Press enter to skip and use auto-reply, or type 'exit' to end the conversation: 
+
+>>>>>>>> NO HUMAN INPUT RECEIVED.
+
+>>>>>>>> USING AUTO REPLY...
+
+>>>>>>>> EXECUTING CODE BLOCK (inferred language is python)...
+code_executor_agent_docker (to code_writer_agent):
+
+exitcode: 0 (execution succeeded)
+Code output: The 14th Fibonacci number is 377
+```
+
+#### Clavardage
+
 Le but de cet exercice est de créez un Chatbot à base d'agents et d'outils.
 
 Voici LA question auquel le chatbot devra répondre, en faisant appel à des informations disponibles en ligne : _"What's the best restaurant in Montreal?"_
