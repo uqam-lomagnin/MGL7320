@@ -75,6 +75,7 @@ Calendrier
 - [ ] Récupérer _et parcourir_ le livre [Augment your LLMs using RAG](https://www.databricks.com/resources/ebook/train-llms-your-data) (copie gratuite)
 - [ ] Lire et visionner [IA génératives et méthodes de diffusion](https://scienceetonnante.com/2023/01/13/stable-diffusion/)
 - [ ] Visionner [Comment fonctionne ChatGPT ?](https://scienceetonnante.com/2023/04/14/comment-fonctionne-chatgpt/)
+- [ ] Télécharger pour le prochain cours le modèle `llama3.2:3b` d'Ollama.
 
 <img style="float: right;" align="right" src="../../images/uqam.png" alt="uqàm" width="100"/>
 

@@ -102,6 +102,8 @@ Voici LA question auquel le chatbot devra répondre, en faisant appel à des inf
 
 :warning: Ne **jamais** sauvegarder vos mots de passe directement dans le code. Pour les conserver en local sans avoir à les partager, vous pouvez utiliser des outils tels que [Dotenv](https://pypi.org/project/python-dotenv/) (:bomb: ajoutez les fichiers `.env` dans la liste `.gitignore` pour éviter qu'ils se retrouvent disponibles sur Github !).
 
+:bulb: Voici un notebook fonctionnel (à utiliser uniquement si vous êtes bloqués) : [langgraph_chatbot.ipynb](./langgraph_chatbot.ipynb)
+
 - [ ] Construire un guide culinaire interactif en faisant appel à [CrewAI](https://docs.crewai.com/introduction)
 
 ![](./images/crewAI-mindmap.png)
