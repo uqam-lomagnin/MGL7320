@@ -10,7 +10,6 @@
 ## Présentations du jour
 
 :bulb: _ML & GenAI_ : Quel(s) environnement(s), plateforme(s) et outil(s) utiliser ?
-<center>
 
 ![MLOps](MLOps_3-1024x677.png)
 => [The Fundamentals Of MLOps](https://www.radiant.digital/the-fundamentals-of-mlops-the-enabler-of-quality-outcomes-in-production-environments/)
@@ -24,17 +23,22 @@
 ![MLops Landscape](MLOps-Landscape.png)
 => [MLOps Landscape in 2024: Top Tools and Platforms](https://neptune.ai/blog/mlops-tools-platforms-landscape)
 
-</center>
 
 ### Quelle(s) infrastructure(s) ?
 
-- _Personal Computer_
-- _Cloud_
+- Ordinateur individuel
+- Infonuagique
   - _Serverless_ ?
 - _On-premise_ (serveurs sur site)
   - Architecture hybride ?
 
 > Avantages et inconvénients de ces environnements ?
+
+### Quels processeur ?
+
+- GPU vs CPU vs TPU vs NPU vs QPU...
+- :tv: [Do we really need NPUs now?](https://youtu.be/a9NprGqBr54?si=LdMiAt6YXLSVSEjM)
+- Pour aller plus loin... :tv: [CPU vs GPU vs TPU vs DPU vs QPU](https://youtu.be/r5NQecwZs1A?si=_1MN14yYcdL-imIt)
 
 ### Préparation des données
 - [Snorkel](https://snorkel.ai)
