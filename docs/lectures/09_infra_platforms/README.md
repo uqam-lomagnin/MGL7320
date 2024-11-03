@@ -20,7 +20,7 @@
 ![Infra-Tooling3](Infra-Tooling3.png)
 => [MLOps Infrastructure & Tooling](https://fullstackdeeplearning.com/spring2021/lecture-6/)
 
-![MLops Landscape](MLOps-Landscape.png)
+:new: ![MLops Landscape](MLOps-Landscape.png)
 => [MLOps Landscape in 2024: Top Tools and Platforms](https://neptune.ai/blog/mlops-tools-platforms-landscape)
 
 
@@ -37,8 +37,8 @@
 ### Quels processeur ?
 
 - GPU vs CPU vs TPU vs NPU vs QPU...
-- :tv: [Do we really need NPUs now?](https://youtu.be/a9NprGqBr54?si=LdMiAt6YXLSVSEjM)
-- Pour aller plus loin... :tv: [CPU vs GPU vs TPU vs DPU vs QPU](https://youtu.be/r5NQecwZs1A?si=_1MN14yYcdL-imIt)
+- :tv: :new: [Do we really need NPUs now?](https://youtu.be/a9NprGqBr54?si=LdMiAt6YXLSVSEjM)
+- Pour aller plus loin... :tv: :new: [CPU vs GPU vs TPU vs DPU vs QPU](https://youtu.be/r5NQecwZs1A?si=_1MN14yYcdL-imIt)
 
 ### Préparation des données
 - [Snorkel](https://snorkel.ai)
@@ -55,16 +55,16 @@
 ### Déploiement des modèles
 - [What is MLflow?](https://mlflow.org/docs/latest/what-is-mlflow.html)
   - :tv: [What is MLflow?](https://www.youtube.com/watch?v=8SfZ1ElgpdU)
-- [NVIDIA NIM for Developers](https://developer.nvidia.com/nim)
+- :new: [NVIDIA NIM for Developers](https://developer.nvidia.com/nim)
   - :tv: [How to self-host and hyperscale AI with Nvidia NIM](https://youtu.be/ZgGss27IfwA?si=aa8QCxiS-gcHTvAi)
 
 ### Sauvegarde et manipulation des données
-- :tv: [Database vs Data Warehouse vs Data Lake | What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)
+- :tv: [Database vs Data Warehouse vs Data Lake - What is the Difference?](https://www.youtube.com/watch?v=-bSkREem8dM)
 - :tv: [Intro to Data Lakehouse](https://www.youtube.com/watch?v=myLiFw9AUKY)
 
 ### Environnements intégrés
 - [Dataiku](https://www.dataiku.com)
-  - :tv: [Dataiku - End to End Demo 2024](https://youtu.be/IovPzrLHw8A?si=hDEObpUyci6_VgNK)
+  - :tv: :new: [Dataiku - End to End Demo 2024](https://youtu.be/IovPzrLHw8A?si=hDEObpUyci6_VgNK)
 - [Databricks](https://www.databricks.com)
   - :tv: [Lakehouse ML on Databricks Demo](https://www.youtube.com/watch?v=1TPu-uOLglI)
 
