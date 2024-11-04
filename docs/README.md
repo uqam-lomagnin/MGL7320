@@ -71,9 +71,9 @@ Non axé sur:
 | 9       | [Systèmes experts, Agents IA & Systèmes multiagents](./lectures/08_agents) | 29 octobre |
 | 10      | [Infrastructure(s), Outils et Plateformes](./lectures/09_infra_platforms)  | 5 novembre |
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
-| 12      |	[Déploiement des systèmes d'intelligence artificielle] | 19 novembre |
+| 12      |	[Déploiement des systèmes d'intelligence artificielle] + Évaluation du cours | 19 novembre |
 | 13      | :question: Atelier Databricks (sous réserve) | 26 novembre |
-| 14      |	:walking: Examen | 3 décembre |
+| 14      |	:walking: Examen | 3 décembre :new: **en salle PK-R220**  |
 | 15      | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
 
 ## Évaluation
