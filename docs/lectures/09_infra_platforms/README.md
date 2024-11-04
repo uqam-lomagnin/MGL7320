@@ -5,7 +5,7 @@
 
 ## Prelude
 
-- Quizz - https://ahaslides.com/
+- Quizz - ~~https://ahaslides.com/~~ [https://kahoot.it](https://kahoot.it)
 
 ## Présentations du jour
 
