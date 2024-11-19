@@ -4,6 +4,10 @@
 ## MGL7320 - Ingénierie logicielle des systèmes d'IA
 # 10 - Déploiement des systèmes d'intelligence artificielle
 
+## Quizz
+
+:question: Accès aux Quizz, un par cours ou bien réunis dans une seule page ?
+
 ## Lectures du jour
 - :bulb: [Déploiement des systèmes d'intelligence artificielle](./10_deploying.pdf)
 - :nut_and_bolt: [CPU vs GPU](./cpu_vs_gpu.pdf)
