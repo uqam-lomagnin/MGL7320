@@ -72,7 +72,7 @@ Non axé sur:
 | 10      | [Infrastructure(s), Outils et Plateformes](./lectures/09_infra_platforms)  | 5 novembre |
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploiement) + Évaluation du cours | 19 novembre |
-| 13      | :question: Plateformes infonuagique, notamment Databricks (sous réserve) | 26 novembre |
+| 13      | [Atelier Databricks](./lectures/11_databricks) | 26 novembre |
 | 14      |	:walking: [Examen](./lectures/examen.md) | 3 décembre :new: **en salle PK-R220**  |
 | 15      | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
 

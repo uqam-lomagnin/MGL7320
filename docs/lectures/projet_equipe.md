@@ -33,7 +33,7 @@ Ce travail est dû pour le **10 décembre 2024** :
 
 :warning: En fonction de la non ou faible participation (visible à travers l'historique Git) d'un membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra lui être appliquée
 
-- Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours du 10 décembre (la durée allouée dépendra du nombre d'équipes).<br>
+- Pour 10 % de la note totale, une présentation et démonstration devra être faite lors du cours du 10 décembre (la durée allouée est de 30 minutes + Q/A).<br>
 
 :bulb: Ces 2 présentations devront se faire en groupe, au pupitre (prévoir par équipe un ordinateur portable ayant un connecteur HDMI).
 
