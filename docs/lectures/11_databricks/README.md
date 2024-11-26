@@ -18,7 +18,7 @@ Choisir la version pour usage professionnel, puis "Use express setup", enfin uti
 
 Complétez les tutoriels présents sur la première page :
 
-:warning: Ouvrez ces tutoriels dans de nouveaux onglets... au risque d'en perdre l'accès.
+:warning: Ouvrez tout d'abord ces tutoriels dans de nouveaux onglets... au risque d'en perdre l'accès.
 
 - _Converse with your data using natural language_
     - :question: Pourquoi un "Warehouse" est nécessaire ? Est-ce que vous pouvez le retrouver ?
@@ -29,9 +29,9 @@ Complétez les tutoriels présents sur la première page :
 
 - _build your first AI agent_
     - :question: quels sont les LLMs disponibles ?
-    - :builb: Pour aller plus loin : _Excited for more?_ / _RAG-based chatbot_ (:warning: _This demo might not fully work on Serverless and Databricks Test Drive!_)
+    - :bulb: Pour aller plus loin : _Excited for more?_ / _RAG-based chatbot_ (:warning: _This demo might not fully work on Serverless and Databricks Test Drive!_)
 
-:build: Vous devriez pouvoir avoir accès à votre usage de la plateforme à travers le tableau intitulé _Workspace Usage Dashboard_ [Non fonctionnel au moment où j'écris ces lignes].
+:bulb: Vous devriez pouvoir avoir accès à votre usage de la plateforme à travers le tableau intitulé _Workspace Usage Dashboard_ [Non fonctionnel au moment où j'écris ces lignes].
 
 ## Exercices pratique (reprise des cours précédents)
 
