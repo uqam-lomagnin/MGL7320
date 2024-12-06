@@ -73,7 +73,7 @@ Non axé sur:
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploiement) + Évaluation du cours | 19 novembre |
 | 13      | [Atelier Databricks](./lectures/11_databricks) | 26 novembre |
-| 14      |	:walking: [Examen](./lectures/examen.md) | 3 décembre   |
+| 14      |	~~:walking: [Examen](./lectures/examen.md)~~ | 3 décembre   |
 | 15      | :new: ~~Présentations (incluant démos) par les étudiants de leur projets en équipe~~ :walking: [Examen](./lectures/examen.md) | 10 décembre **en salle PK-R220** |
 
 ## Évaluation
