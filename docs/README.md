@@ -73,8 +73,8 @@ Non axé sur:
 | 11      | :couple: Présentation (non évaluée) du plan du projet en équipe | 12 novembre |
 | 12      |	[Déploiement des systèmes d'intelligence artificielle](./lectures/10_deploiement) + Évaluation du cours | 19 novembre |
 | 13      | [Atelier Databricks](./lectures/11_databricks) | 26 novembre |
-| 14      |	:walking: [Examen](./lectures/examen.md) | 3 décembre :new: **en salle PK-R220**  |
-| 15      | :couple: Présentations (incluant démos) par les étudiants de leur projets en équipe | 10 décembre |
+| 14      |	:walking: [Examen](./lectures/examen.md) | 3 décembre   |
+| 15      | :new: ~~Présentations (incluant démos) par les étudiants de leur projets en équipe~~ :walking: [Examen](./lectures/examen.md) | 10 décembre **en salle PK-R220** |
 
 ## Évaluation
 
@@ -83,10 +83,10 @@ L'évaluation du cours est composé ainsi :
 | Éléments d’évaluation			| %  code & rapport | % présentation / démo |
 | ------------------------- | -- | ---- |
 | :walking: Projet personnel | 10 % | 10 % |
-| :couple: Projet en équipe |	30 %<sup>*</sup> | 10 % |
+| :couple: Projet en équipe |	~~30 %~~ 40 %<sup>*</sup> | ~~10 %~~ |
 | :walking: Examen (3h, papier) | 40 % | |
 
-<sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à 33 % sur cette note (soit 10 points globaux) pourra lui être appliquée.
+<sup>*</sup> En fonction de la non ou faible participation (visible à travers l'historique Git) d'une membre d'une équipe, une pénalité pouvant aller jusqu'à ~~33 %~~ 25 % sur cette note (soit 10 points globaux) pourra lui être appliquée.
 
 :bulb: À noter l'usage de [GitHub Classroom](https://classroom.github.com/)
 
